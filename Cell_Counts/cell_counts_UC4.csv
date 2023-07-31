@@ -1,0 +1,37 @@
+Cell_type,Cell_Counts
+IgA plasma cell,7597
+Activated CD4 T,6154
+Treg,4304
+Activated CD8 T,3212
+Memory B,3139
+SELL+ CD4 T,2739
+NK cell,831
+Activated T,757
+Naive B,550
+ILC3,372
+Cycling plasma cell,305
+gdT,293
+Immature B,288
+CD8 Tmem,280
+Monocytes,229
+cDC2,192
+LTi-like NCR- ILC3,186
+IgG plasma cell,117
+SELL+ CD8 T,101
+Cycling B cell,77
+LZ GC cell,71
+STAT1+ Naive B,58
+TRGV4 gdT,57
+Tfh,53
+LTi-like NCR+ ILC3,46
+Pre-B,42
+GC B cell,31
+Pro-B,30
+Lymphoid DC,30
+FCRL4+ Memory B,26
+Th17,26
+LYVE1+ Macrophage,16
+Mast cell,16
+Contractile pericyte (PLN+),11
+TRDV2/TRGV9 gdT,10
+Mature venous EC,10

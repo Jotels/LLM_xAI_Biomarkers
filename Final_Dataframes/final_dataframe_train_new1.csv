@@ -1,0 +1,1231 @@
+dataset,celltype,pr_auc
+UC1,Colonocyte,0.871
+UC1,Colonocyte,0.871
+UC1,Colonocyte,0.87
+UC1,Colonocyte,0.87
+UC1,Colonocyte,0.87
+UC1,Colonocyte,0.87
+UC1,Colonocyte,0.87
+UC1,Colonocyte,0.87
+UC1,Colonocyte,0.854
+UC1,Colonocyte,0.885
+UC1,TA,0.946
+UC1,TA,0.957
+UC1,TA,0.95
+UC1,TA,0.948
+UC1,TA,0.95
+UC1,TA,0.95
+UC1,TA,0.948
+UC1,TA,0.949
+UC1,TA,0.949
+UC1,TA,0.945
+UC1,BEST2+ Goblet cell,0.958
+UC1,BEST2+ Goblet cell,0.957
+UC1,BEST2+ Goblet cell,0.95
+UC1,BEST2+ Goblet cell,0.96
+UC1,BEST2+ Goblet cell,0.958
+UC1,BEST2+ Goblet cell,0.959
+UC1,BEST2+ Goblet cell,0.955
+UC1,BEST2+ Goblet cell,0.961
+UC1,BEST2+ Goblet cell,0.957
+UC1,BEST2+ Goblet cell,0.958
+UC1,Stromal 2 (NPY+),0.894
+UC1,Stromal 2 (NPY+),0.896
+UC1,Stromal 2 (NPY+),0.891
+UC1,Stromal 2 (NPY+),0.891
+UC1,Stromal 2 (NPY+),0.893
+UC1,Stromal 2 (NPY+),0.87
+UC1,Stromal 2 (NPY+),0.873
+UC1,Stromal 2 (NPY+),0.868
+UC1,Stromal 2 (NPY+),0.868
+UC1,Stromal 2 (NPY+),0.88
+UC1,Stromal 1 (ADAMDEC1+),0.969
+UC1,Stromal 1 (ADAMDEC1+),0.966
+UC1,Stromal 1 (ADAMDEC1+),0.967
+UC1,Stromal 1 (ADAMDEC1+),0.962
+UC1,Stromal 1 (ADAMDEC1+),0.964
+UC1,Stromal 1 (ADAMDEC1+),0.964
+UC1,Stromal 1 (ADAMDEC1+),0.965
+UC1,Stromal 1 (ADAMDEC1+),0.964
+UC1,Stromal 1 (ADAMDEC1+),0.963
+UC1,Stromal 1 (ADAMDEC1+),0.965
+UC1,Stromal 1 (CCL11+),0.935
+UC1,Stromal 1 (CCL11+),0.934
+UC1,Stromal 1 (CCL11+),0.939
+UC1,Stromal 1 (CCL11+),0.935
+UC1,Stromal 1 (CCL11+),0.925
+UC1,Stromal 1 (CCL11+),0.924
+UC1,Stromal 1 (CCL11+),0.92
+UC1,Stromal 1 (CCL11+),0.92
+UC1,Stromal 1 (CCL11+),0.923
+UC1,Stromal 1 (CCL11+),0.922
+UC1,BEST4+ epithelial,0.88
+UC1,BEST4+ epithelial,0.891
+UC1,BEST4+ epithelial,0.891
+UC1,BEST4+ epithelial,0.886
+UC1,BEST4+ epithelial,0.891
+UC1,BEST4+ epithelial,0.89
+UC1,BEST4+ epithelial,0.882
+UC1,BEST4+ epithelial,0.895
+UC1,BEST4+ epithelial,0.873
+UC1,BEST4+ epithelial,0.888
+UC1,Mature venous EC,0.97
+UC1,Mature venous EC,0.97
+UC1,Mature venous EC,0.957
+UC1,Mature venous EC,0.97
+UC1,Mature venous EC,0.969
+UC1,Mature venous EC,0.955
+UC1,Mature venous EC,0.955
+UC1,Mature venous EC,0.955
+UC1,Mature venous EC,0.95
+UC1,Mature venous EC,0.964
+UC1,T reticular,0.973
+UC1,T reticular,0.975
+UC1,T reticular,0.969
+UC1,T reticular,0.968
+UC1,T reticular,0.968
+UC1,T reticular,0.972
+UC1,T reticular,0.969
+UC1,T reticular,0.972
+UC1,T reticular,0.971
+UC1,T reticular,0.966
+UC1,arterial capillary,0.949
+UC1,arterial capillary,0.949
+UC1,arterial capillary,0.951
+UC1,arterial capillary,0.95
+UC1,arterial capillary,0.95
+UC1,arterial capillary,0.949
+UC1,arterial capillary,0.95
+UC1,arterial capillary,0.944
+UC1,arterial capillary,0.95
+UC1,arterial capillary,0.947
+UC1,Goblet cell,0.94
+UC1,Goblet cell,0.944
+UC1,Goblet cell,0.941
+UC1,Goblet cell,0.942
+UC1,Goblet cell,0.942
+UC1,Goblet cell,0.943
+UC1,Goblet cell,0.944
+UC1,Goblet cell,0.937
+UC1,Goblet cell,0.938
+UC1,Goblet cell,0.938
+UC1,Enterocyte,0.861
+UC1,Enterocyte,0.851
+UC1,Enterocyte,0.851
+UC1,Enterocyte,0.847
+UC1,Enterocyte,0.847
+UC1,Enterocyte,0.849
+UC1,Enterocyte,0.865
+UC1,Enterocyte,0.86
+UC1,Enterocyte,0.86
+UC1,Enterocyte,0.863
+UC1,Tuft,0.935
+UC1,Tuft,0.95
+UC1,Tuft,0.95
+UC1,Tuft,0.95
+UC1,Tuft,0.944
+UC1,Tuft,0.944
+UC1,Tuft,0.945
+UC1,Tuft,0.948
+UC1,Tuft,0.948
+UC1,Tuft,0.943
+UC1,Adult Glia,0.795
+UC1,Adult Glia,0.789
+UC1,Adult Glia,0.794
+UC1,Adult Glia,0.79
+UC1,Adult Glia,0.782
+UC1,Adult Glia,0.783
+UC1,Adult Glia,0.795
+UC1,Adult Glia,0.792
+UC1,Adult Glia,0.777
+UC1,Adult Glia,0.792
+UC1,myofibroblast,0.977
+UC1,myofibroblast,0.975
+UC1,myofibroblast,0.974
+UC1,myofibroblast,0.975
+UC1,myofibroblast,0.972
+UC1,myofibroblast,0.977
+UC1,myofibroblast,0.977
+UC1,myofibroblast,0.971
+UC1,myofibroblast,0.974
+UC1,myofibroblast,0.971
+UC1,IgA plasma cell,0.925
+UC1,IgA plasma cell,0.925
+UC1,IgA plasma cell,0.924
+UC1,IgA plasma cell,0.928
+UC1,IgA plasma cell,0.928
+UC1,IgA plasma cell,0.925
+UC1,IgA plasma cell,0.912
+UC1,IgA plasma cell,0.913
+UC1,IgA plasma cell,0.919
+UC1,IgA plasma cell,0.913
+UC1,Stromal 4 (MMP1+),1.0
+UC1,Stromal 4 (MMP1+),0.998
+UC1,Stromal 4 (MMP1+),0.996
+UC1,Stromal 4 (MMP1+),0.999
+UC1,Stromal 4 (MMP1+),0.998
+UC1,Stromal 4 (MMP1+),0.999
+UC1,Stromal 4 (MMP1+),0.999
+UC1,Stromal 4 (MMP1+),0.997
+UC1,Stromal 4 (MMP1+),0.998
+UC1,Stromal 4 (MMP1+),0.996
+UC1,Pericyte,0.962
+UC1,Pericyte,0.977
+UC1,Pericyte,0.97
+UC1,Pericyte,0.977
+UC1,Pericyte,0.965
+UC1,Pericyte,0.973
+UC1,Pericyte,0.961
+UC1,Pericyte,0.943
+UC1,Pericyte,0.971
+UC1,Pericyte,0.975
+UC1,Mature arterial EC,0.97
+UC1,Mature arterial EC,0.95
+UC1,Mature arterial EC,0.95
+UC1,Mature arterial EC,0.96
+UC1,Mature arterial EC,0.962
+UC1,Mature arterial EC,0.94
+UC1,Mature arterial EC,0.965
+UC1,Mature arterial EC,0.965
+UC1,Mature arterial EC,0.957
+UC1,Mature arterial EC,0.959
+UC1,Stromal 3 (C7+),0.993
+UC1,Stromal 3 (C7+),0.985
+UC1,Stromal 3 (C7+),0.965
+UC1,Stromal 3 (C7+),0.972
+UC1,Stromal 3 (C7+),0.962
+UC1,Stromal 3 (C7+),0.983
+UC1,Stromal 3 (C7+),0.967
+UC1,Stromal 3 (C7+),0.981
+UC1,Stromal 3 (C7+),0.968
+UC1,Stromal 3 (C7+),0.968
+UC1,Microfold cell,1.0
+UC1,Microfold cell,1.0
+UC1,Microfold cell,1.0
+UC1,Microfold cell,1.0
+UC1,Microfold cell,1.0
+UC1,Microfold cell,1.0
+UC1,Microfold cell,1.0
+UC1,Microfold cell,1.0
+UC1,Microfold cell,1.0
+UC1,Microfold cell,1.0
+UC1,myofibroblast (RSPO2+),0.991
+UC1,myofibroblast (RSPO2+),0.973
+UC1,myofibroblast (RSPO2+),0.988
+UC1,myofibroblast (RSPO2+),0.984
+UC1,myofibroblast (RSPO2+),0.982
+UC1,myofibroblast (RSPO2+),0.982
+UC1,myofibroblast (RSPO2+),0.99
+UC1,myofibroblast (RSPO2+),0.98
+UC1,myofibroblast (RSPO2+),0.979
+UC1,myofibroblast (RSPO2+),0.979
+UC1,Contractile pericyte (PLN+),0.909
+UC1,Contractile pericyte (PLN+),0.873
+UC1,Contractile pericyte (PLN+),0.894
+UC1,Contractile pericyte (PLN+),0.924
+UC1,Contractile pericyte (PLN+),0.879
+UC1,Contractile pericyte (PLN+),0.876
+UC1,Contractile pericyte (PLN+),0.877
+UC1,Contractile pericyte (PLN+),0.875
+UC1,Contractile pericyte (PLN+),0.931
+UC1,Contractile pericyte (PLN+),0.904
+UC1,LEC1 (ACKR4+),0.876
+UC1,LEC1 (ACKR4+),0.88
+UC1,LEC1 (ACKR4+),0.867
+UC1,LEC1 (ACKR4+),0.863
+UC1,LEC1 (ACKR4+),0.843
+UC1,LEC1 (ACKR4+),0.843
+UC1,LEC1 (ACKR4+),0.86
+UC1,LEC1 (ACKR4+),0.853
+UC1,LEC1 (ACKR4+),0.86
+UC1,LEC1 (ACKR4+),0.869
+UC1,mLTo,0.989
+UC1,mLTo,0.989
+UC1,mLTo,0.989
+UC1,mLTo,0.996
+UC1,mLTo,0.998
+UC1,mLTo,0.993
+UC1,mLTo,0.994
+UC1,mLTo,0.994
+UC1,mLTo,0.994
+UC1,mLTo,0.994
+UC1,EC cells (TAC1+),0.962
+UC1,EC cells (TAC1+),0.976
+UC1,EC cells (TAC1+),0.964
+UC1,EC cells (TAC1+),0.977
+UC1,EC cells (TAC1+),0.959
+UC1,EC cells (TAC1+),0.969
+UC1,EC cells (TAC1+),0.948
+UC1,EC cells (TAC1+),0.974
+UC1,EC cells (TAC1+),0.971
+UC1,EC cells (TAC1+),0.962
+UC1,Stem cells,0.945
+UC1,Stem cells,0.975
+UC1,Stem cells,0.964
+UC1,Stem cells,0.951
+UC1,Stem cells,0.965
+UC1,Stem cells,0.97
+UC1,Stem cells,0.96
+UC1,Stem cells,0.965
+UC1,Stem cells,0.961
+UC1,Stem cells,0.962
+UC1,venous capillary,0.963
+UC1,venous capillary,0.994
+UC1,venous capillary,0.974
+UC1,venous capillary,0.985
+UC1,venous capillary,0.973
+UC1,venous capillary,0.988
+UC1,venous capillary,0.967
+UC1,venous capillary,0.98
+UC1,venous capillary,0.972
+UC1,venous capillary,0.969
+UC1,FDC,0.901
+UC1,FDC,0.869
+UC1,FDC,0.845
+UC1,FDC,0.903
+UC1,FDC,0.902
+UC1,FDC,0.826
+UC1,FDC,0.841
+UC1,FDC,0.855
+UC1,FDC,0.778
+UC1,FDC,0.778
+UC1,SMC (PLPP2+),0.89
+UC1,SMC (PLPP2+),0.82
+UC1,SMC (PLPP2+),0.899
+UC1,SMC (PLPP2+),0.812
+UC1,SMC (PLPP2+),0.846
+UC1,SMC (PLPP2+),0.916
+UC1,SMC (PLPP2+),0.837
+UC1,SMC (PLPP2+),0.896
+UC1,SMC (PLPP2+),0.919
+UC1,SMC (PLPP2+),0.864
+UC1,cDC2,0.918
+UC1,cDC2,0.869
+UC1,cDC2,0.872
+UC1,cDC2,0.864
+UC1,cDC2,0.944
+UC1,cDC2,0.877
+UC1,cDC2,0.81
+UC1,cDC2,0.81
+UC1,cDC2,0.91
+UC1,cDC2,0.84
+UC1,Mesoderm 1 (HAND1+),0.965
+UC1,Mesoderm 1 (HAND1+),0.928
+UC1,Mesoderm 1 (HAND1+),0.928
+UC1,Mesoderm 1 (HAND1+),0.928
+UC1,Mesoderm 1 (HAND1+),0.928
+UC1,Mesoderm 1 (HAND1+),0.928
+UC1,Mesoderm 1 (HAND1+),0.928
+UC1,Mesoderm 1 (HAND1+),0.928
+UC1,Mesoderm 1 (HAND1+),0.928
+UC1,Mesoderm 1 (HAND1+),0.928
+UC1,Fetal arterial EC,0.968
+UC1,Fetal arterial EC,0.968
+UC1,Fetal arterial EC,0.968
+UC1,Fetal arterial EC,0.967
+UC1,Fetal arterial EC,0.966
+UC1,Fetal arterial EC,0.985
+UC1,Fetal arterial EC,0.983
+UC1,Fetal arterial EC,0.997
+UC1,Fetal arterial EC,0.98
+UC1,Fetal arterial EC,0.979
+UC1,Transitional Stromal 3 (C3+),0.997
+UC1,Transitional Stromal 3 (C3+),1.0
+UC1,Transitional Stromal 3 (C3+),0.997
+UC1,Transitional Stromal 3 (C3+),1.0
+UC1,Transitional Stromal 3 (C3+),0.995
+UC1,Transitional Stromal 3 (C3+),0.995
+UC1,Transitional Stromal 3 (C3+),0.995
+UC1,Transitional Stromal 3 (C3+),0.995
+UC1,Transitional Stromal 3 (C3+),0.995
+UC1,Transitional Stromal 3 (C3+),1.0
+UC1,Mesoderm 2 (ZEB2+),1.0
+UC1,Mesoderm 2 (ZEB2+),1.0
+UC1,Mesoderm 2 (ZEB2+),1.0
+UC1,Mesoderm 2 (ZEB2+),1.0
+UC1,Mesoderm 2 (ZEB2+),1.0
+UC1,Mesoderm 2 (ZEB2+),0.997
+UC1,Mesoderm 2 (ZEB2+),0.994
+UC1,Mesoderm 2 (ZEB2+),0.999
+UC1,Mesoderm 2 (ZEB2+),0.996
+UC1,Mesoderm 2 (ZEB2+),0.998
+UC1,mLN Stroma (FMO2+),1.0
+UC1,mLN Stroma (FMO2+),1.0
+UC1,mLN Stroma (FMO2+),1.0
+UC1,mLN Stroma (FMO2+),0.99
+UC1,mLN Stroma (FMO2+),0.998
+UC1,mLN Stroma (FMO2+),0.998
+UC1,mLN Stroma (FMO2+),0.998
+UC1,mLN Stroma (FMO2+),0.998
+UC1,mLN Stroma (FMO2+),0.966
+UC1,mLN Stroma (FMO2+),0.998
+UC1,Activated T,1.0
+UC1,Activated T,0.997
+UC1,Activated T,1.0
+UC1,Activated T,0.997
+UC1,Activated T,0.986
+UC1,Activated T,0.992
+UC1,Activated T,0.988
+UC1,Activated T,0.988
+UC1,Activated T,0.987
+UC1,Activated T,0.981
+UC1,D cells (SST+),0.966
+UC1,D cells (SST+),0.966
+UC1,D cells (SST+),0.966
+UC1,D cells (SST+),0.966
+UC1,D cells (SST+),0.966
+UC1,D cells (SST+),0.966
+UC1,D cells (SST+),0.966
+UC1,D cells (SST+),0.966
+UC1,D cells (SST+),0.966
+UC1,D cells (SST+),0.966
+UC1,Mesothelium,1.0
+UC1,Mesothelium,1.0
+UC1,Mesothelium,1.0
+UC1,Mesothelium,1.0
+UC1,Mesothelium,1.0
+UC1,Mesothelium,1.0
+UC1,Mesothelium,1.0
+UC1,Mesothelium,1.0
+UC1,Mesothelium,1.0
+UC1,Mesothelium,1.0
+UC1,RBC,0.998
+UC1,RBC,0.917
+UC1,RBC,0.917
+UC1,RBC,0.917
+UC1,RBC,0.917
+UC1,RBC,0.917
+UC1,RBC,0.917
+UC1,RBC,0.917
+UC1,RBC,1.0
+UC1,RBC,1.0
+UC1,Stromal 2 (CH25H+),1.0
+UC1,Stromal 2 (CH25H+),1.0
+UC1,Stromal 2 (CH25H+),1.0
+UC1,Stromal 2 (CH25H+),0.998
+UC1,Stromal 2 (CH25H+),0.998
+UC1,Stromal 2 (CH25H+),0.996
+UC1,Stromal 2 (CH25H+),0.998
+UC1,Stromal 2 (CH25H+),0.994
+UC1,Stromal 2 (CH25H+),0.998
+UC1,Stromal 2 (CH25H+),0.998
+UC1,Paneth,1.0
+UC1,Paneth,1.0
+UC1,Paneth,1.0
+UC1,Paneth,1.0
+UC1,Paneth,1.0
+UC1,Paneth,1.0
+UC1,Paneth,1.0
+UC1,Paneth,1.0
+UC1,Paneth,1.0
+UC1,Paneth,1.0
+UC1,Cycling B cell,1.0
+UC1,Cycling B cell,1.0
+UC1,Cycling B cell,1.0
+UC1,Cycling B cell,1.0
+UC1,Cycling B cell,1.0
+UC1,Cycling B cell,1.0
+UC1,Cycling B cell,1.0
+UC1,Cycling B cell,1.0
+UC1,Cycling B cell,1.0
+UC1,Cycling B cell,1.0
+UC1,Fetal venous EC,1.0
+UC1,Fetal venous EC,0.981
+UC1,Fetal venous EC,1.0
+UC1,Fetal venous EC,1.0
+UC1,Fetal venous EC,1.0
+UC1,Fetal venous EC,1.0
+UC1,Fetal venous EC,1.0
+UC1,Fetal venous EC,1.0
+UC1,Fetal venous EC,1.0
+UC1,Fetal venous EC,1.0
+UC1,MPO+ mono-neutrophil,1.0
+UC1,MPO+ mono-neutrophil,1.0
+UC1,MPO+ mono-neutrophil,1.0
+UC1,MPO+ mono-neutrophil,1.0
+UC1,MPO+ mono-neutrophil,1.0
+UC1,MPO+ mono-neutrophil,1.0
+UC1,MPO+ mono-neutrophil,1.0
+UC1,MPO+ mono-neutrophil,1.0
+UC1,MPO+ mono-neutrophil,1.0
+UC1,MPO+ mono-neutrophil,1.0
+UC2,Stromal 2 (NPY+),0.967
+UC2,Stromal 2 (NPY+),0.944
+UC2,Stromal 2 (NPY+),0.975
+UC2,Stromal 2 (NPY+),0.962
+UC2,Stromal 2 (NPY+),0.975
+UC2,Stromal 2 (NPY+),0.942
+UC2,Stromal 2 (NPY+),0.95
+UC2,Stromal 2 (NPY+),0.946
+UC2,Stromal 2 (NPY+),0.96
+UC2,Stromal 2 (NPY+),0.951
+UC2,Stromal 1 (CCL11+),0.925
+UC2,Stromal 1 (CCL11+),0.929
+UC2,Stromal 1 (CCL11+),0.927
+UC2,Stromal 1 (CCL11+),0.927
+UC2,Stromal 1 (CCL11+),0.927
+UC2,Stromal 1 (CCL11+),0.928
+UC2,Stromal 1 (CCL11+),0.942
+UC2,Stromal 1 (CCL11+),0.925
+UC2,Stromal 1 (CCL11+),0.92
+UC2,Stromal 1 (CCL11+),0.931
+UC2,Mature venous EC,0.952
+UC2,Mature venous EC,0.952
+UC2,Mature venous EC,0.952
+UC2,Mature venous EC,0.952
+UC2,Mature venous EC,0.952
+UC2,Mature venous EC,0.952
+UC2,Mature venous EC,0.952
+UC2,Mature venous EC,0.951
+UC2,Mature venous EC,0.951
+UC2,Mature venous EC,0.952
+UC2,Adult Glia,0.995
+UC2,Adult Glia,0.995
+UC2,Adult Glia,0.992
+UC2,Adult Glia,0.992
+UC2,Adult Glia,0.992
+UC2,Adult Glia,0.992
+UC2,Adult Glia,0.99
+UC2,Adult Glia,0.993
+UC2,Adult Glia,0.993
+UC2,Adult Glia,0.993
+UC2,Stromal 4 (MMP1+),0.953
+UC2,Stromal 4 (MMP1+),0.98
+UC2,Stromal 4 (MMP1+),0.977
+UC2,Stromal 4 (MMP1+),0.963
+UC2,Stromal 4 (MMP1+),0.965
+UC2,Stromal 4 (MMP1+),0.987
+UC2,Stromal 4 (MMP1+),0.953
+UC2,Stromal 4 (MMP1+),0.968
+UC2,Stromal 4 (MMP1+),0.977
+UC2,Stromal 4 (MMP1+),0.964
+UC2,arterial capillary,0.947
+UC2,arterial capillary,0.947
+UC2,arterial capillary,0.946
+UC2,arterial capillary,0.937
+UC2,arterial capillary,0.959
+UC2,arterial capillary,0.942
+UC2,arterial capillary,0.959
+UC2,arterial capillary,0.951
+UC2,arterial capillary,0.973
+UC2,arterial capillary,0.915
+UC2,IgA plasma cell,0.685
+UC2,IgA plasma cell,0.516
+UC2,IgA plasma cell,0.558
+UC2,IgA plasma cell,0.399
+UC2,IgA plasma cell,0.484
+UC2,IgA plasma cell,0.396
+UC2,IgA plasma cell,0.511
+UC2,IgA plasma cell,0.434
+UC2,IgA plasma cell,0.522
+UC2,IgA plasma cell,0.557
+UC2,Pericyte,0.983
+UC2,Pericyte,0.937
+UC2,Pericyte,0.979
+UC2,Pericyte,0.989
+UC2,Pericyte,0.975
+UC2,Pericyte,0.972
+UC2,Pericyte,0.926
+UC2,Pericyte,0.926
+UC2,Pericyte,0.958
+UC2,Pericyte,0.936
+UC2,Contractile pericyte (PLN+),0.974
+UC2,Contractile pericyte (PLN+),0.974
+UC2,Contractile pericyte (PLN+),0.974
+UC2,Contractile pericyte (PLN+),0.972
+UC2,Contractile pericyte (PLN+),0.972
+UC2,Contractile pericyte (PLN+),0.972
+UC2,Contractile pericyte (PLN+),0.976
+UC2,Contractile pericyte (PLN+),0.976
+UC2,Contractile pericyte (PLN+),0.961
+UC2,Contractile pericyte (PLN+),0.967
+UC2,Stromal 1 (ADAMDEC1+),0.978
+UC2,Stromal 1 (ADAMDEC1+),0.978
+UC2,Stromal 1 (ADAMDEC1+),0.977
+UC2,Stromal 1 (ADAMDEC1+),0.958
+UC2,Stromal 1 (ADAMDEC1+),0.964
+UC2,Stromal 1 (ADAMDEC1+),0.949
+UC2,Stromal 1 (ADAMDEC1+),0.949
+UC2,Stromal 1 (ADAMDEC1+),0.949
+UC2,Stromal 1 (ADAMDEC1+),0.955
+UC2,Stromal 1 (ADAMDEC1+),0.951
+UC2,Mature arterial EC,0.969
+UC2,Mature arterial EC,0.977
+UC2,Mature arterial EC,0.977
+UC2,Mature arterial EC,0.977
+UC2,Mature arterial EC,0.937
+UC2,Mature arterial EC,0.874
+UC2,Mature arterial EC,0.982
+UC2,Mature arterial EC,0.965
+UC2,Mature arterial EC,0.97
+UC2,Mature arterial EC,0.913
+UC2,myofibroblast,0.966
+UC2,myofibroblast,0.956
+UC2,myofibroblast,0.938
+UC2,myofibroblast,0.932
+UC2,myofibroblast,0.958
+UC2,myofibroblast,0.958
+UC2,myofibroblast,0.934
+UC2,myofibroblast,0.913
+UC2,myofibroblast,0.914
+UC2,myofibroblast,0.929
+UC2,T reticular,0.925
+UC2,T reticular,0.928
+UC2,T reticular,0.941
+UC2,T reticular,0.929
+UC2,T reticular,0.882
+UC2,T reticular,0.927
+UC2,T reticular,0.927
+UC2,T reticular,0.909
+UC2,T reticular,0.947
+UC2,T reticular,0.92
+UC2,mLTo,1.0
+UC2,mLTo,1.0
+UC2,mLTo,1.0
+UC2,mLTo,1.0
+UC2,mLTo,1.0
+UC2,mLTo,1.0
+UC2,mLTo,0.99
+UC2,mLTo,0.995
+UC2,mLTo,0.992
+UC2,mLTo,0.99
+UC2,Immature pericyte,1.0
+UC2,Immature pericyte,1.0
+UC2,Immature pericyte,1.0
+UC2,Immature pericyte,1.0
+UC2,Immature pericyte,1.0
+UC2,Immature pericyte,1.0
+UC2,Immature pericyte,1.0
+UC2,Immature pericyte,1.0
+UC2,Immature pericyte,1.0
+UC2,Immature pericyte,1.0
+UC2,Transitional Stromal 3 (C3+),1.0
+UC2,Transitional Stromal 3 (C3+),1.0
+UC2,Transitional Stromal 3 (C3+),1.0
+UC2,Transitional Stromal 3 (C3+),1.0
+UC2,Transitional Stromal 3 (C3+),1.0
+UC2,Transitional Stromal 3 (C3+),0.583
+UC2,Transitional Stromal 3 (C3+),0.583
+UC2,Transitional Stromal 3 (C3+),0.7
+UC2,Transitional Stromal 3 (C3+),0.31
+UC2,Transitional Stromal 3 (C3+),0.222
+UC2,Stromal 3 (C7+),1.0
+UC2,Stromal 3 (C7+),1.0
+UC2,Stromal 3 (C7+),0.976
+UC2,Stromal 3 (C7+),0.976
+UC2,Stromal 3 (C7+),0.976
+UC2,Stromal 3 (C7+),0.976
+UC2,Stromal 3 (C7+),0.976
+UC2,Stromal 3 (C7+),1.0
+UC2,Stromal 3 (C7+),1.0
+UC2,Stromal 3 (C7+),1.0
+UC2,Fetal arterial EC,1.0
+UC2,Fetal arterial EC,1.0
+UC2,Fetal arterial EC,0.992
+UC2,Fetal arterial EC,1.0
+UC2,Fetal arterial EC,1.0
+UC2,Fetal arterial EC,1.0
+UC2,Fetal arterial EC,1.0
+UC2,Fetal arterial EC,1.0
+UC2,Fetal arterial EC,1.0
+UC2,Fetal arterial EC,1.0
+UC2,Glia 1 (DHH+),1.0
+UC2,Glia 1 (DHH+),1.0
+UC2,Glia 1 (DHH+),1.0
+UC2,Glia 1 (DHH+),1.0
+UC2,Glia 1 (DHH+),1.0
+UC2,Glia 1 (DHH+),1.0
+UC2,Glia 1 (DHH+),1.0
+UC2,Glia 1 (DHH+),1.0
+UC2,Glia 1 (DHH+),1.0
+UC2,Glia 1 (DHH+),1.0
+UC2,Fetal venous EC,1.0
+UC2,Fetal venous EC,1.0
+UC2,Fetal venous EC,1.0
+UC2,Fetal venous EC,1.0
+UC2,Fetal venous EC,1.0
+UC2,Fetal venous EC,1.0
+UC2,Fetal venous EC,1.0
+UC2,Fetal venous EC,1.0
+UC2,Fetal venous EC,1.0
+UC2,Fetal venous EC,1.0
+UC2,myofibroblast (RSPO2+),1.0
+UC2,myofibroblast (RSPO2+),1.0
+UC2,myofibroblast (RSPO2+),1.0
+UC2,myofibroblast (RSPO2+),1.0
+UC2,myofibroblast (RSPO2+),1.0
+UC2,myofibroblast (RSPO2+),1.0
+UC2,myofibroblast (RSPO2+),1.0
+UC2,myofibroblast (RSPO2+),1.0
+UC2,myofibroblast (RSPO2+),1.0
+UC2,myofibroblast (RSPO2+),1.0
+UC3,Colonocyte,0.92
+UC3,Colonocyte,0.88
+UC3,Colonocyte,0.874
+UC3,Colonocyte,0.893
+UC3,Colonocyte,0.924
+UC3,Colonocyte,0.878
+UC3,Colonocyte,0.892
+UC3,Colonocyte,0.906
+UC3,Colonocyte,0.915
+UC3,Colonocyte,0.905
+UC3,TA,0.938
+UC3,TA,0.934
+UC3,TA,0.935
+UC3,TA,0.92
+UC3,TA,0.925
+UC3,TA,0.932
+UC3,TA,0.921
+UC3,TA,0.922
+UC3,TA,0.926
+UC3,TA,0.926
+UC3,BEST2+ Goblet cell,0.924
+UC3,BEST2+ Goblet cell,0.925
+UC3,BEST2+ Goblet cell,0.924
+UC3,BEST2+ Goblet cell,0.921
+UC3,BEST2+ Goblet cell,0.919
+UC3,BEST2+ Goblet cell,0.921
+UC3,BEST2+ Goblet cell,0.917
+UC3,BEST2+ Goblet cell,0.918
+UC3,BEST2+ Goblet cell,0.918
+UC3,BEST2+ Goblet cell,0.919
+UC3,Activated CD8 T,0.912
+UC3,Activated CD8 T,0.916
+UC3,Activated CD8 T,0.911
+UC3,Activated CD8 T,0.905
+UC3,Activated CD8 T,0.908
+UC3,Activated CD8 T,0.893
+UC3,Activated CD8 T,0.891
+UC3,Activated CD8 T,0.886
+UC3,Activated CD8 T,0.899
+UC3,Activated CD8 T,0.892
+UC3,Goblet cell,0.945
+UC3,Goblet cell,0.943
+UC3,Goblet cell,0.944
+UC3,Goblet cell,0.952
+UC3,Goblet cell,0.954
+UC3,Goblet cell,0.941
+UC3,Goblet cell,0.941
+UC3,Goblet cell,0.911
+UC3,Goblet cell,0.944
+UC3,Goblet cell,0.952
+UC3,BEST4+ epithelial,0.93
+UC3,BEST4+ epithelial,0.926
+UC3,BEST4+ epithelial,0.926
+UC3,BEST4+ epithelial,0.929
+UC3,BEST4+ epithelial,0.929
+UC3,BEST4+ epithelial,0.929
+UC3,BEST4+ epithelial,0.921
+UC3,BEST4+ epithelial,0.92
+UC3,BEST4+ epithelial,0.936
+UC3,BEST4+ epithelial,0.915
+UC3,Memory B,0.983
+UC3,Memory B,0.961
+UC3,Memory B,0.965
+UC3,Memory B,0.973
+UC3,Memory B,0.96
+UC3,Memory B,0.951
+UC3,Memory B,0.951
+UC3,Memory B,0.951
+UC3,Memory B,0.979
+UC3,Memory B,0.967
+UC3,Treg,0.933
+UC3,Treg,0.961
+UC3,Treg,0.98
+UC3,Treg,0.973
+UC3,Treg,0.982
+UC3,Treg,0.977
+UC3,Treg,0.972
+UC3,Treg,0.925
+UC3,Treg,0.925
+UC3,Treg,0.925
+UC3,Stem cells,0.915
+UC3,Stem cells,0.956
+UC3,Stem cells,0.957
+UC3,Stem cells,0.926
+UC3,Stem cells,0.906
+UC3,Stem cells,0.892
+UC3,Stem cells,0.962
+UC3,Stem cells,0.886
+UC3,Stem cells,0.943
+UC3,Stem cells,0.9
+UC3,gdT,0.925
+UC3,gdT,0.925
+UC3,gdT,0.885
+UC3,gdT,0.893
+UC3,gdT,0.826
+UC3,gdT,0.898
+UC3,gdT,0.906
+UC3,gdT,0.85
+UC3,gdT,0.846
+UC3,gdT,0.902
+UC3,NK cell,0.957
+UC3,NK cell,0.965
+UC3,NK cell,0.968
+UC3,NK cell,0.955
+UC3,NK cell,0.954
+UC3,NK cell,0.949
+UC3,NK cell,0.95
+UC3,NK cell,0.948
+UC3,NK cell,0.947
+UC3,NK cell,0.938
+UC3,EC cells (TAC1+),0.944
+UC3,EC cells (TAC1+),0.895
+UC3,EC cells (TAC1+),0.921
+UC3,EC cells (TAC1+),0.903
+UC3,EC cells (TAC1+),0.918
+UC3,EC cells (TAC1+),0.953
+UC3,EC cells (TAC1+),0.853
+UC3,EC cells (TAC1+),0.923
+UC3,EC cells (TAC1+),0.944
+UC3,EC cells (TAC1+),0.873
+UC3,IgA plasma cell,1.0
+UC3,IgA plasma cell,0.999
+UC3,IgA plasma cell,0.978
+UC3,IgA plasma cell,0.978
+UC3,IgA plasma cell,0.978
+UC3,IgA plasma cell,0.978
+UC3,IgA plasma cell,0.978
+UC3,IgA plasma cell,0.978
+UC3,IgA plasma cell,0.999
+UC3,IgA plasma cell,0.999
+UC3,Naive B,1.0
+UC3,Naive B,1.0
+UC3,Naive B,1.0
+UC3,Naive B,1.0
+UC3,Naive B,1.0
+UC3,Naive B,1.0
+UC3,Naive B,1.0
+UC3,Naive B,1.0
+UC3,Naive B,1.0
+UC3,Naive B,1.0
+UC3,Activated CD4 T,0.867
+UC3,Activated CD4 T,0.985
+UC3,Activated CD4 T,0.985
+UC3,Activated CD4 T,0.982
+UC3,Activated CD4 T,0.919
+UC3,Activated CD4 T,0.933
+UC3,Activated CD4 T,0.982
+UC3,Activated CD4 T,0.946
+UC3,Activated CD4 T,0.871
+UC3,Activated CD4 T,0.891
+UC3,TRGV4 gdT,1.0
+UC3,TRGV4 gdT,1.0
+UC3,TRGV4 gdT,1.0
+UC3,TRGV4 gdT,1.0
+UC3,TRGV4 gdT,1.0
+UC3,TRGV4 gdT,1.0
+UC3,TRGV4 gdT,0.995
+UC3,TRGV4 gdT,1.0
+UC3,TRGV4 gdT,0.995
+UC3,TRGV4 gdT,0.99
+UC3,Mast cell,1.0
+UC3,Mast cell,1.0
+UC3,Mast cell,1.0
+UC3,Mast cell,1.0
+UC3,Mast cell,1.0
+UC3,Mast cell,1.0
+UC3,Mast cell,1.0
+UC3,Mast cell,1.0
+UC3,Mast cell,1.0
+UC3,Mast cell,1.0
+UC3,Tfh,1.0
+UC3,Tfh,1.0
+UC3,Tfh,1.0
+UC3,Tfh,1.0
+UC3,Tfh,1.0
+UC3,Tfh,1.0
+UC3,Tfh,1.0
+UC3,Tfh,1.0
+UC3,Tfh,1.0
+UC3,Tfh,1.0
+UC3,I cells (CCK+),1.0
+UC3,I cells (CCK+),1.0
+UC3,I cells (CCK+),1.0
+UC3,I cells (CCK+),1.0
+UC3,I cells (CCK+),1.0
+UC3,I cells (CCK+),1.0
+UC3,I cells (CCK+),1.0
+UC3,I cells (CCK+),1.0
+UC3,I cells (CCK+),1.0
+UC3,I cells (CCK+),1.0
+UC3,SELL+ CD4 T,1.0
+UC3,SELL+ CD4 T,1.0
+UC3,SELL+ CD4 T,1.0
+UC3,SELL+ CD4 T,1.0
+UC3,SELL+ CD4 T,1.0
+UC3,SELL+ CD4 T,1.0
+UC3,SELL+ CD4 T,0.991
+UC3,SELL+ CD4 T,0.991
+UC3,SELL+ CD4 T,0.991
+UC3,SELL+ CD4 T,0.981
+UC3,cDC2,1.0
+UC3,cDC2,1.0
+UC3,cDC2,1.0
+UC3,cDC2,1.0
+UC3,cDC2,1.0
+UC3,cDC2,1.0
+UC3,cDC2,1.0
+UC3,cDC2,1.0
+UC3,cDC2,1.0
+UC3,cDC2,1.0
+UC3,Th1,1.0
+UC3,Th1,1.0
+UC3,Th1,1.0
+UC3,Th1,0.989
+UC3,Th1,0.9
+UC3,Th1,0.9
+UC3,Th1,0.9
+UC3,Th1,0.9
+UC3,Th1,0.9
+UC3,Th1,0.9
+UC3,Macrophages,1.0
+UC3,Macrophages,1.0
+UC3,Macrophages,1.0
+UC3,Macrophages,1.0
+UC3,Macrophages,1.0
+UC3,Macrophages,1.0
+UC3,Macrophages,1.0
+UC3,Macrophages,1.0
+UC3,Macrophages,1.0
+UC3,Macrophages,1.0
+UC5,IgA plasma cell,0.859
+UC5,IgA plasma cell,0.856
+UC5,IgA plasma cell,0.853
+UC5,IgA plasma cell,0.848
+UC5,IgA plasma cell,0.849
+UC5,IgA plasma cell,0.846
+UC5,IgA plasma cell,0.851
+UC5,IgA plasma cell,0.849
+UC5,IgA plasma cell,0.849
+UC5,IgA plasma cell,0.844
+UC5,Activated CD4 T,0.772
+UC5,Activated CD4 T,0.753
+UC5,Activated CD4 T,0.765
+UC5,Activated CD4 T,0.758
+UC5,Activated CD4 T,0.758
+UC5,Activated CD4 T,0.755
+UC5,Activated CD4 T,0.766
+UC5,Activated CD4 T,0.754
+UC5,Activated CD4 T,0.749
+UC5,Activated CD4 T,0.743
+UC5,Treg,0.955
+UC5,Treg,0.952
+UC5,Treg,0.955
+UC5,Treg,0.951
+UC5,Treg,0.954
+UC5,Treg,0.953
+UC5,Treg,0.954
+UC5,Treg,0.952
+UC5,Treg,0.955
+UC5,Treg,0.951
+UC5,Activated CD8 T,0.832
+UC5,Activated CD8 T,0.832
+UC5,Activated CD8 T,0.824
+UC5,Activated CD8 T,0.821
+UC5,Activated CD8 T,0.825
+UC5,Activated CD8 T,0.823
+UC5,Activated CD8 T,0.823
+UC5,Activated CD8 T,0.823
+UC5,Activated CD8 T,0.821
+UC5,Activated CD8 T,0.816
+UC5,Memory B,0.883
+UC5,Memory B,0.867
+UC5,Memory B,0.866
+UC5,Memory B,0.868
+UC5,Memory B,0.869
+UC5,Memory B,0.869
+UC5,Memory B,0.869
+UC5,Memory B,0.878
+UC5,Memory B,0.867
+UC5,Memory B,0.862
+UC5,SELL+ CD4 T,0.862
+UC5,SELL+ CD4 T,0.865
+UC5,SELL+ CD4 T,0.853
+UC5,SELL+ CD4 T,0.853
+UC5,SELL+ CD4 T,0.847
+UC5,SELL+ CD4 T,0.848
+UC5,SELL+ CD4 T,0.846
+UC5,SELL+ CD4 T,0.834
+UC5,SELL+ CD4 T,0.838
+UC5,SELL+ CD4 T,0.822
+UC5,NK cell,0.909
+UC5,NK cell,0.909
+UC5,NK cell,0.905
+UC5,NK cell,0.905
+UC5,NK cell,0.905
+UC5,NK cell,0.902
+UC5,NK cell,0.905
+UC5,NK cell,0.899
+UC5,NK cell,0.894
+UC5,NK cell,0.907
+UC5,Activated T,0.917
+UC5,Activated T,0.901
+UC5,Activated T,0.878
+UC5,Activated T,0.871
+UC5,Activated T,0.869
+UC5,Activated T,0.887
+UC5,Activated T,0.887
+UC5,Activated T,0.887
+UC5,Activated T,0.867
+UC5,Activated T,0.886
+UC5,Naive B,0.917
+UC5,Naive B,0.918
+UC5,Naive B,0.906
+UC5,Naive B,0.881
+UC5,Naive B,0.859
+UC5,Naive B,0.839
+UC5,Naive B,0.839
+UC5,Naive B,0.893
+UC5,Naive B,0.883
+UC5,Naive B,0.838
+UC5,ILC3,0.846
+UC5,ILC3,0.836
+UC5,ILC3,0.84
+UC5,ILC3,0.833
+UC5,ILC3,0.84
+UC5,ILC3,0.837
+UC5,ILC3,0.839
+UC5,ILC3,0.827
+UC5,ILC3,0.827
+UC5,ILC3,0.837
+UC5,Cycling plasma cell,0.844
+UC5,Cycling plasma cell,0.868
+UC5,Cycling plasma cell,0.842
+UC5,Cycling plasma cell,0.857
+UC5,Cycling plasma cell,0.846
+UC5,Cycling plasma cell,0.844
+UC5,Cycling plasma cell,0.858
+UC5,Cycling plasma cell,0.852
+UC5,Cycling plasma cell,0.841
+UC5,Cycling plasma cell,0.86
+UC5,gdT,0.933
+UC5,gdT,0.933
+UC5,gdT,0.926
+UC5,gdT,0.927
+UC5,gdT,0.926
+UC5,gdT,0.932
+UC5,gdT,0.932
+UC5,gdT,0.927
+UC5,gdT,0.925
+UC5,gdT,0.923
+UC5,Immature B,0.928
+UC5,Immature B,0.947
+UC5,Immature B,0.888
+UC5,Immature B,0.889
+UC5,Immature B,0.928
+UC5,Immature B,0.94
+UC5,Immature B,0.888
+UC5,Immature B,0.882
+UC5,Immature B,0.942
+UC5,Immature B,0.932
+UC5,CD8 Tmem,0.919
+UC5,CD8 Tmem,0.925
+UC5,CD8 Tmem,0.935
+UC5,CD8 Tmem,0.902
+UC5,CD8 Tmem,0.92
+UC5,CD8 Tmem,0.895
+UC5,CD8 Tmem,0.85
+UC5,CD8 Tmem,0.896
+UC5,CD8 Tmem,0.911
+UC5,CD8 Tmem,0.865
+UC5,Monocytes,0.898
+UC5,Monocytes,0.897
+UC5,Monocytes,0.889
+UC5,Monocytes,0.896
+UC5,Monocytes,0.896
+UC5,Monocytes,0.857
+UC5,Monocytes,0.899
+UC5,Monocytes,0.901
+UC5,Monocytes,0.88
+UC5,Monocytes,0.889
+UC5,cDC2,0.872
+UC5,cDC2,0.798
+UC5,cDC2,0.795
+UC5,cDC2,0.825
+UC5,cDC2,0.839
+UC5,cDC2,0.842
+UC5,cDC2,0.747
+UC5,cDC2,0.791
+UC5,cDC2,0.747
+UC5,cDC2,0.806
+UC5,LTi-like NCR- ILC3,0.923
+UC5,LTi-like NCR- ILC3,0.887
+UC5,LTi-like NCR- ILC3,0.923
+UC5,LTi-like NCR- ILC3,0.883
+UC5,LTi-like NCR- ILC3,0.923
+UC5,LTi-like NCR- ILC3,0.908
+UC5,LTi-like NCR- ILC3,0.867
+UC5,LTi-like NCR- ILC3,0.881
+UC5,LTi-like NCR- ILC3,0.908
+UC5,LTi-like NCR- ILC3,0.887
+UC5,IgG plasma cell,0.946
+UC5,IgG plasma cell,0.942
+UC5,IgG plasma cell,0.937
+UC5,IgG plasma cell,0.943
+UC5,IgG plasma cell,0.928
+UC5,IgG plasma cell,0.926
+UC5,IgG plasma cell,0.936
+UC5,IgG plasma cell,0.943
+UC5,IgG plasma cell,0.943
+UC5,IgG plasma cell,0.925
+UC5,SELL+ CD8 T,0.892
+UC5,SELL+ CD8 T,0.865
+UC5,SELL+ CD8 T,0.939
+UC5,SELL+ CD8 T,0.89
+UC5,SELL+ CD8 T,0.905
+UC5,SELL+ CD8 T,0.897
+UC5,SELL+ CD8 T,0.889
+UC5,SELL+ CD8 T,0.925
+UC5,SELL+ CD8 T,0.906
+UC5,SELL+ CD8 T,0.915
+UC5,Cycling B cell,0.986
+UC5,Cycling B cell,0.999
+UC5,Cycling B cell,0.997
+UC5,Cycling B cell,0.999
+UC5,Cycling B cell,0.996
+UC5,Cycling B cell,0.998
+UC5,Cycling B cell,0.998
+UC5,Cycling B cell,0.994
+UC5,Cycling B cell,0.983
+UC5,Cycling B cell,0.986
+UC5,LZ GC cell,0.986
+UC5,LZ GC cell,0.986
+UC5,LZ GC cell,0.986
+UC5,LZ GC cell,0.985
+UC5,LZ GC cell,0.997
+UC5,LZ GC cell,0.998
+UC5,LZ GC cell,0.989
+UC5,LZ GC cell,0.998
+UC5,LZ GC cell,0.985
+UC5,LZ GC cell,0.984
+UC5,STAT1+ Naive B,0.927
+UC5,STAT1+ Naive B,0.911
+UC5,STAT1+ Naive B,0.968
+UC5,STAT1+ Naive B,0.895
+UC5,STAT1+ Naive B,0.895
+UC5,STAT1+ Naive B,0.895
+UC5,STAT1+ Naive B,0.895
+UC5,STAT1+ Naive B,0.895
+UC5,STAT1+ Naive B,0.924
+UC5,STAT1+ Naive B,0.924
+UC5,TRGV4 gdT,0.989
+UC5,TRGV4 gdT,0.988
+UC5,TRGV4 gdT,0.985
+UC5,TRGV4 gdT,0.975
+UC5,TRGV4 gdT,0.981
+UC5,TRGV4 gdT,0.982
+UC5,TRGV4 gdT,0.981
+UC5,TRGV4 gdT,0.977
+UC5,TRGV4 gdT,0.978
+UC5,TRGV4 gdT,0.978
+UC5,Tfh,0.901
+UC5,Tfh,0.946
+UC5,Tfh,0.843
+UC5,Tfh,0.989
+UC5,Tfh,0.944
+UC5,Tfh,0.857
+UC5,Tfh,0.854
+UC5,Tfh,0.894
+UC5,Tfh,0.864
+UC5,Tfh,0.827
+UC5,LTi-like NCR+ ILC3,0.936
+UC5,LTi-like NCR+ ILC3,0.891
+UC5,LTi-like NCR+ ILC3,0.91
+UC5,LTi-like NCR+ ILC3,0.892
+UC5,LTi-like NCR+ ILC3,0.909
+UC5,LTi-like NCR+ ILC3,0.813
+UC5,LTi-like NCR+ ILC3,0.889
+UC5,LTi-like NCR+ ILC3,0.889
+UC5,LTi-like NCR+ ILC3,0.83
+UC5,LTi-like NCR+ ILC3,0.913
+UC5,Pre-B,0.974
+UC5,Pre-B,0.991
+UC5,Pre-B,0.987
+UC5,Pre-B,0.984
+UC5,Pre-B,0.98
+UC5,Pre-B,0.984
+UC5,Pre-B,0.978
+UC5,Pre-B,0.982
+UC5,Pre-B,0.967
+UC5,Pre-B,0.974
+UC5,GC B cell,0.931
+UC5,GC B cell,0.931
+UC5,GC B cell,0.986
+UC5,GC B cell,0.9
+UC5,GC B cell,0.9
+UC5,GC B cell,0.9
+UC5,GC B cell,0.9
+UC5,GC B cell,0.9
+UC5,GC B cell,0.9
+UC5,GC B cell,0.9
+UC5,Pro-B,0.889
+UC5,Pro-B,0.984
+UC5,Pro-B,0.977
+UC5,Pro-B,1.0
+UC5,Pro-B,0.923
+UC5,Pro-B,0.857
+UC5,Pro-B,0.857
+UC5,Pro-B,0.998
+UC5,Pro-B,0.92
+UC5,Pro-B,0.958
+UC5,Lymphoid DC,1.0
+UC5,Lymphoid DC,1.0
+UC5,Lymphoid DC,1.0
+UC5,Lymphoid DC,1.0
+UC5,Lymphoid DC,1.0
+UC5,Lymphoid DC,1.0
+UC5,Lymphoid DC,1.0
+UC5,Lymphoid DC,1.0
+UC5,Lymphoid DC,1.0
+UC5,Lymphoid DC,1.0
+UC5,FCRL4+ Memory B,0.917
+UC5,FCRL4+ Memory B,0.951
+UC5,FCRL4+ Memory B,0.978
+UC5,FCRL4+ Memory B,0.998
+UC5,FCRL4+ Memory B,0.951
+UC5,FCRL4+ Memory B,0.88
+UC5,FCRL4+ Memory B,0.88
+UC5,FCRL4+ Memory B,0.88
+UC5,FCRL4+ Memory B,0.88
+UC5,FCRL4+ Memory B,0.88
+UC5,Th17,1.0
+UC5,Th17,0.991
+UC5,Th17,0.88
+UC5,Th17,0.88
+UC5,Th17,0.88
+UC5,Th17,0.88
+UC5,Th17,0.996
+UC5,Th17,0.913
+UC5,Th17,0.929
+UC5,Th17,0.963
+UC5,LYVE1+ Macrophage,1.0
+UC5,LYVE1+ Macrophage,1.0
+UC5,LYVE1+ Macrophage,1.0
+UC5,LYVE1+ Macrophage,1.0
+UC5,LYVE1+ Macrophage,1.0
+UC5,LYVE1+ Macrophage,1.0
+UC5,LYVE1+ Macrophage,1.0
+UC5,LYVE1+ Macrophage,1.0
+UC5,LYVE1+ Macrophage,1.0
+UC5,LYVE1+ Macrophage,1.0
+UC5,Mast cell,0.967
+UC5,Mast cell,1.0
+UC5,Mast cell,1.0
+UC5,Mast cell,1.0
+UC5,Mast cell,1.0
+UC5,Mast cell,1.0
+UC5,Mast cell,0.85
+UC5,Mast cell,0.933
+UC5,Mast cell,0.775
+UC5,Mast cell,0.833
+UC5,Contractile pericyte (PLN+),1.0
+UC5,Contractile pericyte (PLN+),1.0
+UC5,Contractile pericyte (PLN+),1.0
+UC5,Contractile pericyte (PLN+),1.0
+UC5,Contractile pericyte (PLN+),1.0
+UC5,Contractile pericyte (PLN+),1.0
+UC5,Contractile pericyte (PLN+),1.0
+UC5,Contractile pericyte (PLN+),1.0
+UC5,Contractile pericyte (PLN+),1.0
+UC5,Contractile pericyte (PLN+),1.0

@@ -1,0 +1,11165 @@
+Colonocyte
+gdT
+SELL+ CD4 T
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Activated CD8 T
+Colonocyte
+TRGV4 gdT
+Colonocyte
+TA
+Colonocyte
+Activated CD8 T
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+gdT
+BEST2+ Goblet cell
+Activated CD8 T
+TA
+TA
+TA
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Activated CD8 T
+Activated CD8 T
+Activated CD8 T
+BEST2+ Goblet cell
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Activated CD8 T
+Activated CD8 T
+TA
+BEST2+ Goblet cell
+gdT
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+Goblet cell
+Activated CD4 T
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Activated CD8 T
+Colonocyte
+BEST2+ Goblet cell
+Activated CD8 T
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+Colonocyte
+Memory B
+Activated CD8 T
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+gdT
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+gdT
+Colonocyte
+Activated CD8 T
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+BEST2+ Goblet cell
+Activated CD8 T
+Tuft
+Colonocyte
+BEST4+ epithelial
+NK cell
+BEST2+ Goblet cell
+Activated CD8 T
+Colonocyte
+TA
+Activated CD8 T
+Colonocyte
+Activated CD8 T
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+Activated CD8 T
+Colonocyte
+Colonocyte
+Activated CD8 T
+TA
+Colonocyte
+Colonocyte
+TRGV4 gdT
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TRGV4 gdT
+TA
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+BEST4+ epithelial
+Activated CD8 T
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+Activated CD8 T
+Activated CD8 T
+BEST4+ epithelial
+TRGV4 gdT
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+gdT
+Colonocyte
+Activated CD8 T
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+Colonocyte
+Activated CD8 T
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+gdT
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+Treg
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Activated CD8 T
+Activated CD8 T
+Activated CD8 T
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+Activated CD8 T
+Colonocyte
+Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST4+ epithelial
+BEST2+ Goblet cell
+Colonocyte
+Activated CD8 T
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Th1
+Colonocyte
+Goblet cell
+Colonocyte
+Colonocyte
+TRGV4 gdT
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+SELL+ CD4 T
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Activated CD8 T
+Colonocyte
+Colonocyte
+TA
+TA
+TRGV4 gdT
+NK cell
+BEST2+ Goblet cell
+Activated CD8 T
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Treg
+Activated CD8 T
+TRGV4 gdT
+Activated CD8 T
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+gdT
+Colonocyte
+Colonocyte
+TRGV4 gdT
+TA
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Goblet cell
+TRGV4 gdT
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Activated CD4 T
+Activated CD8 T
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST4+ epithelial
+TA
+Colonocyte
+BEST2+ Goblet cell
+Activated CD8 T
+Activated CD8 T
+Colonocyte
+Activated CD8 T
+Activated CD8 T
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Activated CD8 T
+gdT
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST4+ epithelial
+Colonocyte
+TA
+BEST2+ Goblet cell
+RBC
+BEST2+ Goblet cell
+Activated CD8 T
+Activated CD8 T
+Activated CD8 T
+BEST2+ Goblet cell
+Activated CD8 T
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+BEST2+ Goblet cell
+TA
+Colonocyte
+Activated CD8 T
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+Activated CD8 T
+Activated CD4 T
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST4+ epithelial
+Stem cells
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Activated CD8 T
+TRGV4 gdT
+Colonocyte
+Goblet cell
+Colonocyte
+Colonocyte
+Activated CD8 T
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+gdT
+Colonocyte
+TA
+TA
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Activated CD8 T
+Colonocyte
+TRGV4 gdT
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Activated CD8 T
+Macrophages
+NK cell
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Memory B
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TRGV4 gdT
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Activated CD8 T
+TA
+Activated CD8 T
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Activated CD8 T
+NK cell
+Tfh
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+EC cells (TAC1+)
+TA
+Colonocyte
+Activated CD8 T
+Colonocyte
+Colonocyte
+gdT
+Activated CD8 T
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+Colonocyte
+Colonocyte
+TA
+BEST4+ epithelial
+TA
+Colonocyte
+TA
+Mast cell
+TA
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+BEST4+ epithelial
+TA
+Activated CD8 T
+NK cell
+TA
+TA
+Activated CD8 T
+BEST2+ Goblet cell
+Activated CD4 T
+TA
+TA
+TA
+TA
+BEST4+ epithelial
+Colonocyte
+Activated CD8 T
+Activated CD4 T
+Colonocyte
+Colonocyte
+gdT
+TA
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Activated CD8 T
+BEST2+ Goblet cell
+NK cell
+BEST2+ Goblet cell
+TA
+gdT
+Activated CD8 T
+Colonocyte
+TA
+Activated CD8 T
+Colonocyte
+NK cell
+BEST2+ Goblet cell
+Activated CD8 T
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+NK cell
+TA
+TA
+TA
+Activated CD8 T
+BEST2+ Goblet cell
+TA
+TRGV4 gdT
+TRGV4 gdT
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Activated CD4 T
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Activated CD8 T
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Activated CD8 T
+TA
+BEST2+ Goblet cell
+Activated CD8 T
+Colonocyte
+BEST4+ epithelial
+TA
+TA
+BEST2+ Goblet cell
+TA
+TA
+BEST2+ Goblet cell
+Activated CD8 T
+TA
+Colonocyte
+TA
+NK cell
+Colonocyte
+Colonocyte
+Activated CD8 T
+TA
+Colonocyte
+cDC2
+TA
+NK cell
+BEST2+ Goblet cell
+BEST4+ epithelial
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+Treg
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Stem cells
+TA
+BEST2+ Goblet cell
+Activated CD8 T
+Activated CD8 T
+TA
+BEST2+ Goblet cell
+Activated CD4 T
+TA
+BEST2+ Goblet cell
+Naive B
+Colonocyte
+TA
+Mast cell
+Stem cells
+Lymphoid DC
+Goblet cell
+Colonocyte
+Colonocyte
+Activated CD8 T
+TA
+TA
+Activated CD4 T
+NK cell
+Colonocyte
+IgA plasma cell
+NK cell
+Colonocyte
+BEST2+ Goblet cell
+Goblet cell
+BEST2+ Goblet cell
+Activated CD8 T
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+Activated CD8 T
+TA
+BEST4+ epithelial
+TA
+Colonocyte
+BEST4+ epithelial
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+TA
+TA
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+TA
+TA
+NK cell
+TA
+LTi-like NCR+ ILC3
+BEST2+ Goblet cell
+Mast cell
+TA
+gdT
+Colonocyte
+Activated CD8 T
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+EC cells (TAC1+)
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+TA
+Activated CD8 T
+Stem cells
+TA
+Colonocyte
+Activated CD8 T
+Goblet cell
+Colonocyte
+Colonocyte
+cDC2
+Stem cells
+BEST2+ Goblet cell
+Memory B
+TA
+Colonocyte
+BEST4+ epithelial
+Activated CD8 T
+TRGV4 gdT
+Goblet cell
+Colonocyte
+NK cell
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+TA
+Activated CD8 T
+Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+gdT
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Activated CD8 T
+BEST4+ epithelial
+Colonocyte
+TA
+TA
+NK cell
+Colonocyte
+Activated CD8 T
+Colonocyte
+TA
+TA
+BEST4+ epithelial
+TA
+Colonocyte
+Treg
+RBC
+Activated CD8 T
+Activated CD4 T
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Activated CD8 T
+TA
+Activated CD8 T
+TA
+LTi-like NCR- ILC3
+Colonocyte
+TA
+Memory B
+BEST2+ Goblet cell
+Colonocyte
+gdT
+Activated CD8 T
+BEST2+ Goblet cell
+Colonocyte
+TA
+Goblet cell
+BEST4+ epithelial
+BEST4+ epithelial
+TA
+BEST4+ epithelial
+BEST2+ Goblet cell
+TA
+Colonocyte
+TRGV4 gdT
+Activated CD8 T
+TA
+NK cell
+Activated CD8 T
+Colonocyte
+Activated CD8 T
+Activated CD8 T
+BEST2+ Goblet cell
+EC cells (TAC1+)
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+NK cell
+Colonocyte
+TA
+Activated CD8 T
+BEST2+ Goblet cell
+gdT
+Stem cells
+Activated CD8 T
+Activated CD8 T
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+TA
+NK cell
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Activated CD8 T
+Activated CD8 T
+TA
+TA
+EC cells (TAC1+)
+Colonocyte
+BEST2+ Goblet cell
+Activated CD8 T
+TA
+TA
+Goblet cell
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+NK T cell
+TA
+Colonocyte
+TA
+Goblet cell
+TA
+BEST4+ epithelial
+TA
+Activated CD8 T
+EC cells (TAC1+)
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Activated CD8 T
+TRGV4 gdT
+TA
+Activated CD8 T
+Colonocyte
+Th1
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Mast cell
+Colonocyte
+Memory B
+Activated CD8 T
+BEST4+ epithelial
+Activated CD8 T
+IgA plasma cell
+Activated CD8 T
+Colonocyte
+Colonocyte
+Colonocyte
+Monocytes
+Activated CD8 T
+Colonocyte
+Colonocyte
+Colonocyte
+Memory B
+Activated CD8 T
+Colonocyte
+Colonocyte
+Colonocyte
+Treg
+Memory B
+Treg
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+Naive B
+Activated CD8 T
+Activated CD8 T
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+Activated CD8 T
+TA
+Colonocyte
+Colonocyte
+Immature B
+Colonocyte
+Treg
+Activated CD8 T
+Activated CD8 T
+cDC1
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Treg
+BEST4+ epithelial
+Activated CD8 T
+Naive B
+Activated CD8 T
+Monocytes
+Activated CD8 T
+Activated CD8 T
+Memory B
+TA
+Activated CD8 T
+Colonocyte
+Memory B
+Activated CD8 T
+TA
+Colonocyte
+TA
+Colonocyte
+Naive B
+TRGV4 gdT
+Colonocyte
+Naive B
+Treg
+LTi-like NCR- ILC3
+IgA plasma cell
+Cycling plasma cell
+BEST4+ epithelial
+Colonocyte
+Naive B
+Colonocyte
+Treg
+Colonocyte
+Colonocyte
+Activated CD8 T
+Colonocyte
+Treg
+Colonocyte
+Colonocyte
+gdT
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Activated CD8 T
+Colonocyte
+Colonocyte
+Memory B
+Colonocyte
+M/X cells (MLN/GHRL+)
+Colonocyte
+Colonocyte
+Colonocyte
+Treg
+NK T cell
+Tfh
+Colonocyte
+Colonocyte
+TRGV4 gdT
+CD8 Tmem
+Activated CD8 T
+Activated CD8 T
+Colonocyte
+Colonocyte
+Colonocyte
+gdT
+Activated CD8 T
+Memory B
+Memory B
+SELL+ CD4 T
+Memory B
+Activated CD8 T
+Colonocyte
+ILC3
+Treg
+Activated CD8 T
+Treg
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+Memory B
+Colonocyte
+Activated CD8 T
+Memory B
+Colonocyte
+Colonocyte
+Colonocyte
+Treg
+Activated CD8 T
+Activated CD8 T
+Naive B
+IgA plasma cell
+Colonocyte
+Monocytes
+Memory B
+Th1
+Th17
+Colonocyte
+Colonocyte
+gdT
+Colonocyte
+Colonocyte
+Treg
+CD8 Tmem
+Activated CD8 T
+Memory B
+BEST4+ epithelial
+Colonocyte
+Th1
+Colonocyte
+Colonocyte
+Colonocyte
+Treg
+Memory B
+Colonocyte
+Colonocyte
+Memory B
+Memory B
+Activated CD8 T
+Memory B
+Cycling B cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Activated CD8 T
+Activated CD8 T
+Memory B
+Treg
+Cycling B cell
+Colonocyte
+Lymphoid DC
+Activated CD8 T
+Naive B
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Lymphoid DC
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Treg
+Activated CD4 T
+Treg
+Activated CD8 T
+Naive B
+TA
+Colonocyte
+Naive B
+Activated CD8 T
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Treg
+Activated CD8 T
+Activated CD8 T
+Activated CD8 T
+BEST4+ epithelial
+Memory B
+Activated CD8 T
+Colonocyte
+Activated CD8 T
+Memory B
+Colonocyte
+Activated CD8 T
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Naive B
+Colonocyte
+Colonocyte
+Colonocyte
+Treg
+Activated CD8 T
+Colonocyte
+Colonocyte
+Naive B
+Memory B
+Colonocyte
+Immature B
+Colonocyte
+Colonocyte
+Treg
+TA
+Treg
+gdT
+Treg
+BEST2+ Goblet cell
+Activated CD4 T
+Activated CD8 T
+Colonocyte
+Colonocyte
+Naive B
+Colonocyte
+Colonocyte
+Memory B
+Colonocyte
+Colonocyte
+Colonocyte
+Tfh
+Activated CD4 T
+Colonocyte
+Activated CD8 T
+Colonocyte
+Memory B
+Naive B
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD4 T
+Colonocyte
+Colonocyte
+Colonocyte
+Memory B
+IgA plasma cell
+Memory B
+Activated CD4 T
+Tfh
+EC cells (TAC1+)
+Colonocyte
+Activated CD8 T
+BEST2+ Goblet cell
+Memory B
+Colonocyte
+Memory B
+Tfh
+Colonocyte
+Colonocyte
+Colonocyte
+NK cell
+Naive B
+Colonocyte
+Colonocyte
+Macrophages
+Colonocyte
+Colonocyte
+Colonocyte
+Th1
+Memory B
+Activated CD8 T
+Activated CD8 T
+Memory B
+Activated CD4 T
+CD8 Tmem
+Colonocyte
+Colonocyte
+NK cell
+LYVE1+ Macrophage
+Colonocyte
+TA
+Colonocyte
+Memory B
+Colonocyte
+Colonocyte
+Memory B
+Activated CD8 T
+Activated CD8 T
+Colonocyte
+Colonocyte
+Memory B
+Colonocyte
+Activated CD8 T
+Colonocyte
+Activated CD8 T
+Activated CD8 T
+TA
+Activated CD8 T
+Activated CD8 T
+Colonocyte
+Colonocyte
+Colonocyte
+IgA plasma cell
+Activated CD8 T
+Treg
+Colonocyte
+Colonocyte
+Activated CD8 T
+Colonocyte
+Monocytes
+SELL+ CD4 T
+BEST2+ Goblet cell
+Activated CD4 T
+Activated CD8 T
+Th17
+Activated CD8 T
+Naive B
+Microfold cell
+Colonocyte
+Memory B
+Activated CD8 T
+CD8 Tmem
+Memory B
+BEST4+ epithelial
+CD8 Tmem
+Colonocyte
+Activated CD8 T
+Colonocyte
+Activated CD8 T
+Colonocyte
+Naive B
+Colonocyte
+Activated CD8 T
+Colonocyte
+Colonocyte
+Th17
+Mast cell
+Colonocyte
+CD8 Tmem
+Colonocyte
+Colonocyte
+Naive B
+Colonocyte
+Memory B
+Colonocyte
+Monocytes
+Treg
+Colonocyte
+Colonocyte
+Activated CD8 T
+Activated CD8 T
+Colonocyte
+Activated CD8 T
+Activated CD8 T
+Colonocyte
+Activated CD8 T
+Colonocyte
+Memory B
+Colonocyte
+Colonocyte
+Colonocyte
+Memory B
+Memory B
+Naive B
+Colonocyte
+Colonocyte
+Memory B
+Activated CD8 T
+Colonocyte
+Goblet cell
+Activated CD8 T
+Colonocyte
+Colonocyte
+Naive B
+Activated CD8 T
+BEST4+ epithelial
+Colonocyte
+Activated CD8 T
+Colonocyte
+Activated CD8 T
+Colonocyte
+Activated T
+TA
+Colonocyte
+Colonocyte
+Activated CD8 T
+Colonocyte
+Colonocyte
+Activated CD8 T
+Colonocyte
+Activated CD4 T
+Memory B
+IgA plasma cell
+Activated CD4 T
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Memory B
+Memory B
+Memory B
+TA
+Activated CD8 T
+Activated CD8 T
+Memory B
+gdT
+Activated CD8 T
+Memory B
+Colonocyte
+Colonocyte
+gdT
+Colonocyte
+Colonocyte
+Memory B
+Colonocyte
+Colonocyte
+TRGV4 gdT
+Colonocyte
+CD8 Tmem
+Activated CD8 T
+Memory B
+Memory B
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Treg
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+Colonocyte
+CD8 Tmem
+Activated CD4 T
+Colonocyte
+Colonocyte
+Memory B
+Naive B
+Colonocyte
+Colonocyte
+Memory B
+Activated CD8 T
+Memory B
+Activated CD8 T
+TA
+Activated CD8 T
+Activated CD8 T
+Memory B
+Memory B
+Colonocyte
+Memory B
+gdT
+SELL+ CD4 T
+Naive B
+Activated CD8 T
+Activated CD8 T
+Colonocyte
+Treg
+Activated CD8 T
+Colonocyte
+Activated CD8 T
+Activated CD8 T
+Memory B
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Memory B
+Colonocyte
+Treg
+Activated CD8 T
+Treg
+Monocytes
+BEST2+ Goblet cell
+TRGV4 gdT
+Colonocyte
+TA
+Memory B
+Naive B
+Treg
+gdT
+Memory B
+Colonocyte
+Colonocyte
+Activated CD8 T
+Activated CD8 T
+Activated CD8 T
+Memory B
+Treg
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+Colonocyte
+Activated CD8 T
+Activated CD8 T
+Activated CD8 T
+Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST4+ epithelial
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+BEST2+ Goblet cell
+TA
+Colonocyte
+BEST2+ Goblet cell
+Activated CD8 T
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Goblet cell
+Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST4+ epithelial
+BEST2+ Goblet cell
+Colonocyte
+EC cells (TAC1+)
+Colonocyte
+Activated CD8 T
+BEST2+ Goblet cell
+Colonocyte
+TA
+Goblet cell
+Colonocyte
+Colonocyte
+TA
+EC cells (TAC1+)
+Colonocyte
+Colonocyte
+TA
+Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+TA
+Activated CD8 T
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+I cells (CCK+)
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Goblet cell
+Treg
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+Colonocyte
+Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Activated CD8 T
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Activated CD8 T
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Goblet cell
+Goblet cell
+Colonocyte
+Activated CD8 T
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Activated CD8 T
+Colonocyte
+Colonocyte
+TA
+Goblet cell
+Treg
+Colonocyte
+BEST2+ Goblet cell
+Goblet cell
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+Memory B
+Colonocyte
+Colonocyte
+Colonocyte
+Goblet cell
+BEST2+ Goblet cell
+TA
+TA
+Activated CD4 T
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+Colonocyte
+Activated CD8 T
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+Treg
+BEST2+ Goblet cell
+Activated CD8 T
+Colonocyte
+Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Goblet cell
+Colonocyte
+Goblet cell
+Memory B
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+TA
+TA
+Memory B
+Colonocyte
+BEST2+ Goblet cell
+TA
+Activated CD8 T
+Colonocyte
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Activated CD8 T
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Activated CD8 T
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+TA
+Stem cells
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Goblet cell
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Activated CD8 T
+Colonocyte
+Colonocyte
+Colonocyte
+I cells (CCK+)
+TA
+EC cells (TAC1+)
+LZ GC cell
+BEST2+ Goblet cell
+Colonocyte
+Macrophages
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+BEST4+ epithelial
+BEST2+ Goblet cell
+TA
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+Activated CD8 T
+Mast cell
+Goblet cell
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+TA
+Memory B
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Goblet cell
+Activated CD8 T
+BEST4+ epithelial
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+Activated CD8 T
+Goblet cell
+BEST2+ Goblet cell
+BEST4+ epithelial
+TA
+Memory B
+TA
+Colonocyte
+TA
+Activated CD8 T
+TA
+Activated CD8 T
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+TA
+Activated CD8 T
+TA
+TA
+BEST2+ Goblet cell
+TA
+Activated CD8 T
+Colonocyte
+Goblet cell
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Memory B
+Colonocyte
+TA
+BEST2+ Goblet cell
+Activated CD8 T
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Activated CD8 T
+TA
+Colonocyte
+TA
+BEST2+ Goblet cell
+gdT
+Colonocyte
+TA
+Goblet cell
+Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Tfh
+BEST2+ Goblet cell
+TA
+Goblet cell
+BEST2+ Goblet cell
+TA
+Activated CD8 T
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Goblet cell
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+Colonocyte
+Goblet cell
+BEST2+ Goblet cell
+Activated CD8 T
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+TA
+Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+TA
+Colonocyte
+Activated CD8 T
+BEST2+ Goblet cell
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+Activated CD8 T
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+Colonocyte
+Goblet cell
+Th1
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+Activated CD8 T
+BEST2+ Goblet cell
+Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Goblet cell
+BEST4+ epithelial
+Colonocyte
+Activated CD8 T
+BEST2+ Goblet cell
+Activated CD8 T
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Activated CD8 T
+BEST4+ epithelial
+Stem cells
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Macrophages
+Colonocyte
+TA
+TA
+Activated CD8 T
+TA
+TA
+Naive B
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Activated CD8 T
+EC cells (TAC1+)
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Activated CD8 T
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+Goblet cell
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Activated CD8 T
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+TA
+Colonocyte
+Activated CD8 T
+Activated CD8 T
+Colonocyte
+TA
+TA
+Colonocyte
+Activated CD8 T
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Stem cells
+Colonocyte
+TA
+NK cell
+Colonocyte
+Colonocyte
+cDC2
+BEST4+ epithelial
+Colonocyte
+Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Activated CD8 T
+BEST2+ Goblet cell
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+EC cells (TAC1+)
+TA
+Colonocyte
+BEST2+ Goblet cell
+Activated CD8 T
+Activated CD8 T
+Colonocyte
+BEST2+ Goblet cell
+Activated CD4 T
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+EC cells (TAC1+)
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Activated CD8 T
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+Activated CD4 T
+Activated CD8 T
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Goblet cell
+Goblet cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Goblet cell
+Colonocyte
+TA
+Activated CD4 T
+Activated CD8 T
+Colonocyte
+Goblet cell
+TA
+Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+I cells (CCK+)
+Activated CD8 T
+Activated CD8 T
+Activated CD8 T
+TA
+BEST2+ Goblet cell
+Activated CD8 T
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Memory B
+TA
+BEST2+ Goblet cell
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+Colonocyte
+Goblet cell
+Colonocyte
+Activated CD8 T
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Activated CD8 T
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+TA
+Activated CD8 T
+LYVE1+ Macrophage
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Activated CD8 T
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Goblet cell
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST4+ epithelial
+Colonocyte
+EC cells (TAC1+)
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TRGV4 gdT
+Colonocyte
+BEST4+ epithelial
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+Activated CD8 T
+TA
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+BEST4+ epithelial
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Activated CD8 T
+Colonocyte
+Activated CD8 T
+Colonocyte
+Goblet cell
+TA
+Colonocyte
+Goblet cell
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+BEST4+ epithelial
+TA
+Colonocyte
+Colonocyte
+Stem cells
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+BEST4+ epithelial
+Activated CD8 T
+Colonocyte
+Activated CD8 T
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Treg
+Colonocyte
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Activated CD8 T
+Colonocyte
+Goblet cell
+Goblet cell
+BEST2+ Goblet cell
+BEST4+ epithelial
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Goblet cell
+Colonocyte
+Colonocyte
+Activated CD8 T
+BEST2+ Goblet cell
+Colonocyte
+Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Mast cell
+Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD4 T
+TA
+TA
+Colonocyte
+Colonocyte
+Activated CD8 T
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+Activated CD8 T
+TA
+BEST4+ epithelial
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+Colonocyte
+Activated CD8 T
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Goblet cell
+BEST2+ Goblet cell
+Goblet cell
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Treg
+Colonocyte
+Colonocyte
+Activated CD8 T
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Activated CD8 T
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+Activated CD8 T
+Colonocyte
+Colonocyte
+Colonocyte
+NK cell
+Activated CD8 T
+Colonocyte
+Colonocyte
+EC cells (TAC1+)
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+BEST4+ epithelial
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Goblet cell
+Colonocyte
+Activated CD8 T
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Activated CD8 T
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Activated CD8 T
+Colonocyte
+NK cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Stem cells
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+BEST4+ epithelial
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Activated CD8 T
+Colonocyte
+Activated CD8 T
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Activated CD8 T
+TA
+Colonocyte
+NK cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Goblet cell
+TA
+TA
+Colonocyte
+BEST4+ epithelial
+TA
+TA
+EC cells (TAC1+)
+Colonocyte
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+Activated CD8 T
+Colonocyte
+Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+EC cells (TAC1+)
+TA
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Activated CD8 T
+TA
+Colonocyte
+Activated CD8 T
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+TA
+TA
+TA
+BEST4+ epithelial
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+TA
+Activated CD8 T
+cDC2
+TA
+Colonocyte
+Colonocyte
+Activated CD8 T
+TA
+Colonocyte
+Activated CD4 T
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Goblet cell
+BEST2+ Goblet cell
+Activated CD8 T
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+TA
+I cells (CCK+)
+Colonocyte
+EC cells (TAC1+)
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+gdT
+Colonocyte
+TA
+TA
+Activated CD8 T
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Activated CD8 T
+Activated CD8 T
+Colonocyte
+Goblet cell
+Activated CD8 T
+TA
+Colonocyte
+Activated CD8 T
+Colonocyte
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+BEST4+ epithelial
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+ILC3
+TA
+TA
+TA
+Activated CD8 T
+Colonocyte
+Colonocyte
+I cells (CCK+)
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Activated CD8 T
+TA
+Colonocyte
+Stem cells
+Activated CD8 T
+Memory B
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Goblet cell
+Colonocyte
+Colonocyte
+Activated CD8 T
+Colonocyte
+Activated CD8 T
+Colonocyte
+gdT
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Activated CD8 T
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+Goblet cell
+TA
+BEST4+ epithelial
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+Goblet cell
+Colonocyte
+Activated CD8 T
+Colonocyte
+Colonocyte
+Goblet cell
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+TA
+BEST4+ epithelial
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Activated CD8 T
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Activated CD8 T
+BEST4+ epithelial
+Colonocyte
+Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Stem cells
+Activated CD8 T
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+Activated CD8 T
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Activated CD8 T
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+ILC3
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Goblet cell
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Goblet cell
+Activated CD8 T
+TA
+TA
+Activated CD8 T
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Activated CD8 T
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Activated CD8 T
+Colonocyte
+BEST2+ Goblet cell
+BEST4+ epithelial
+Goblet cell
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Goblet cell
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+NK cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Activated CD8 T
+Tuft
+Colonocyte
+TA
+Activated CD8 T
+TA
+TA
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+Goblet cell
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+Activated CD8 T
+TA
+Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+TA
+Colonocyte
+Activated CD8 T
+BEST2+ Goblet cell
+Colonocyte
+Activated CD8 T
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Goblet cell
+TA
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+gdT
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+TA
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+ILC3
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST4+ epithelial
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+gdT
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+Treg
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Activated CD8 T
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+Goblet cell
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Goblet cell
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+TA
+Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Activated CD8 T
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+Colonocyte
+Stem cells
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+gdT
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Stem cells
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+gdT
+TA
+Colonocyte
+LTi-like NCR- ILC3
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Stem cells
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Activated CD8 T
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+TA
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+Activated CD8 T
+BEST2+ Goblet cell
+BEST4+ epithelial
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+Stem cells
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+TA
+TA
+Colonocyte
+LYVE1+ Macrophage
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Stem cells
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+BEST4+ epithelial
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Stem cells
+Stem cells
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Activated CD8 T
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Goblet cell
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Tuft
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Stem cells
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+TA
+Colonocyte
+Activated CD8 T
+TA
+Colonocyte
+Stem cells
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+Colonocyte
+Stem cells
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Stem cells
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+Colonocyte
+Stem cells
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+TA
+Colonocyte
+EC cells (TAC1+)
+TA
+TA
+Colonocyte
+Colonocyte
+Goblet cell
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+gdT
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+Tuft
+Colonocyte
+Colonocyte
+Colonocyte
+EC cells (TAC1+)
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+NK cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST4+ epithelial
+BEST2+ Goblet cell
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Activated CD8 T
+BEST2+ Goblet cell
+Goblet cell
+Colonocyte
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+Activated CD8 T
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Goblet cell
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Stem cells
+Colonocyte
+BEST4+ epithelial
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+gdT
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+gdT
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+BEST4+ epithelial
+Activated CD8 T
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+BEST4+ epithelial
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+gdT
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+Goblet cell
+BEST4+ epithelial
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Goblet cell
+TA
+BEST4+ epithelial
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+BEST4+ epithelial
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Activated CD8 T
+Colonocyte
+gdT
+Activated CD8 T
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Activated CD8 T
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Goblet cell
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+Stem cells
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+gdT
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Activated CD8 T
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Stem cells
+TA
+TA
+Stem cells
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Stem cells
+Activated CD8 T
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+TA
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Activated CD8 T
+Colonocyte
+Stem cells
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+BEST4+ epithelial
+TA
+Colonocyte
+BEST4+ epithelial
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+TA
+gdT
+TA
+Colonocyte
+Activated CD8 T
+Colonocyte
+TA
+TA
+Colonocyte
+Goblet cell
+TA
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+NK cell
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+TA
+Stem cells
+TA
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+gdT
+Colonocyte
+TA
+TA
+EC cells (TAC1+)
+Colonocyte
+Colonocyte
+Activated CD8 T
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Stem cells
+Activated CD8 T
+BEST2+ Goblet cell
+TA
+Stem cells
+Colonocyte
+TA
+Colonocyte
+BEST4+ epithelial
+Activated CD8 T
+Goblet cell
+TA
+Activated CD8 T
+Colonocyte
+NK cell
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+gdT
+Colonocyte
+BEST4+ epithelial
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+gdT
+Colonocyte
+Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Goblet cell
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+EC cells (TAC1+)
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+gdT
+TA
+TA
+TA
+TA
+Colonocyte
+NK cell
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Stem cells
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+Stem cells
+TA
+TA
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+BEST4+ epithelial
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+TA
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+gdT
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+IgA plasma cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Activated CD8 T
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+gdT
+Colonocyte
+Stem cells
+TA
+TA
+TA
+BEST2+ Goblet cell
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+NK cell
+Colonocyte
+Colonocyte
+TA
+TA
+BEST4+ epithelial
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Activated CD8 T
+Stem cells
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Goblet cell
+TA
+Colonocyte
+Colonocyte
+gdT
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+gdT
+Colonocyte
+Stem cells
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+gdT
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+BEST4+ epithelial
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+BEST4+ epithelial
+BEST4+ epithelial
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Stem cells
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+Activated CD8 T
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+Stem cells
+TA
+Colonocyte
+BEST4+ epithelial
+TA
+gdT
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+Goblet cell
+Colonocyte
+TA
+TA
+TA
+TA
+TA
+Goblet cell
+BEST2+ Goblet cell
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Stem cells
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Goblet cell
+TA
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+EC cells (TAC1+)
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+NK cell
+Goblet cell
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Stem cells
+NK cell
+BEST4+ epithelial
+Colonocyte
+TA
+TA
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Activated CD8 T
+BEST2+ Goblet cell
+BEST4+ epithelial
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Activated CD8 T
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+EC cells (TAC1+)
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+Treg
+Colonocyte
+Immature B
+Activated CD8 T
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+LTi-like NCR- ILC3
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+EC cells (TAC1+)
+TA
+Memory B
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Goblet cell
+Memory B
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+Goblet cell
+Colonocyte
+Colonocyte
+SELL+ CD4 T
+TA
+TA
+Colonocyte
+Treg
+Stem cells
+BEST2+ Goblet cell
+TA
+Goblet cell
+BEST2+ Goblet cell
+Goblet cell
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Treg
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+IgA plasma cell
+Treg
+TA
+Goblet cell
+Colonocyte
+Activated CD8 T
+TA
+Colonocyte
+Colonocyte
+Memory B
+Colonocyte
+EC cells (TAC1+)
+Colonocyte
+Activated CD8 T
+Treg
+Colonocyte
+BEST2+ Goblet cell
+Activated CD8 T
+GC B cell
+TA
+TA
+Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Naive B
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+TRGV4 gdT
+BEST2+ Goblet cell
+TA
+Colonocyte
+IgA plasma cell
+Colonocyte
+Treg
+Memory B
+Treg
+BEST2+ Goblet cell
+Colonocyte
+Memory B
+Colonocyte
+Colonocyte
+Goblet cell
+BEST2+ Goblet cell
+Stem cells
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Goblet cell
+Memory B
+Colonocyte
+Colonocyte
+TA
+Memory B
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Memory B
+Activated CD8 T
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+Goblet cell
+Memory B
+Memory B
+Goblet cell
+Goblet cell
+Colonocyte
+GC B cell
+Colonocyte
+Activated CD8 T
+Goblet cell
+BEST2+ Goblet cell
+CD8 Tmem
+TA
+Colonocyte
+Th1
+BEST2+ Goblet cell
+Treg
+Activated CD8 T
+TA
+Goblet cell
+BEST2+ Goblet cell
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+Treg
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+BEST4+ epithelial
+TA
+TA
+Memory B
+Naive B
+Memory B
+Treg
+IgA plasma cell
+Colonocyte
+TA
+Treg
+TA
+Colonocyte
+BEST4+ epithelial
+TA
+Naive B
+Monocytes
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+Cycling plasma cell
+TA
+Memory B
+Colonocyte
+Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Goblet cell
+BEST2+ Goblet cell
+Goblet cell
+Colonocyte
+Activated CD8 T
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Stem cells
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Memory B
+TA
+Stem cells
+Colonocyte
+Colonocyte
+Memory B
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+Treg
+Treg
+Memory B
+Colonocyte
+Colonocyte
+Goblet cell
+TA
+Goblet cell
+Treg
+TA
+IgA plasma cell
+Colonocyte
+TA
+TA
+Memory B
+TA
+Treg
+TA
+Microfold cell
+BEST2+ Goblet cell
+Goblet cell
+Memory B
+TA
+Colonocyte
+BEST2+ Goblet cell
+Treg
+CD8 Tmem
+TA
+Colonocyte
+Colonocyte
+Activated CD4 T
+BEST2+ Goblet cell
+Activated CD8 T
+Naive B
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+IgA plasma cell
+TA
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Activated CD8 T
+Memory B
+Memory B
+TA
+Treg
+TA
+BEST4+ epithelial
+TA
+Activated CD8 T
+Colonocyte
+BEST2+ Goblet cell
+NK cell
+TA
+TA
+Memory B
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Treg
+Memory B
+Colonocyte
+Colonocyte
+Colonocyte
+Memory B
+Colonocyte
+Activated CD8 T
+TA
+Colonocyte
+Treg
+Colonocyte
+Colonocyte
+Colonocyte
+gdT
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+Goblet cell
+Activated CD8 T
+Memory B
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+IgA plasma cell
+TA
+TA
+Colonocyte
+TA
+IgA plasma cell
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Goblet cell
+Treg
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Memory B
+Colonocyte
+Memory B
+TA
+Goblet cell
+SELL+ CD4 T
+TA
+IgA plasma cell
+Colonocyte
+Memory B
+TA
+Colonocyte
+BEST2+ Goblet cell
+Activated CD4 T
+Treg
+Colonocyte
+Colonocyte
+TA
+TA
+Goblet cell
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+Treg
+TA
+BEST2+ Goblet cell
+TA
+Goblet cell
+Goblet cell
+EC cells (TAC1+)
+Colonocyte
+Memory B
+Colonocyte
+gdT
+Activated CD8 T
+Colonocyte
+Colonocyte
+Immature B
+Colonocyte
+Tfh
+Colonocyte
+Goblet cell
+TRGV4 gdT
+Colonocyte
+Activated CD8 T
+BEST2+ Goblet cell
+Colonocyte
+TA
+Activated CD8 T
+BEST2+ Goblet cell
+TA
+Colonocyte
+Tfh
+TA
+Treg
+Colonocyte
+TA
+TA
+Stem cells
+Colonocyte
+Treg
+Colonocyte
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+TA
+EC cells (TAC1+)
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+Memory B
+Tfh
+Memory B
+BEST2+ Goblet cell
+Activated CD8 T
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Macrophages
+Colonocyte
+Cycling plasma cell
+TA
+IgA plasma cell
+TA
+Treg
+Treg
+Goblet cell
+Colonocyte
+Memory B
+Colonocyte
+BEST2+ Goblet cell
+IgA plasma cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+IgA plasma cell
+Goblet cell
+Colonocyte
+TA
+Treg
+TA
+Colonocyte
+STAT1+ Naive B
+BEST2+ Goblet cell
+Stem cells
+TA
+Colonocyte
+TA
+TA
+Memory B
+Memory B
+BEST2+ Goblet cell
+STAT1+ Naive B
+TA
+TA
+Colonocyte
+Colonocyte
+EC cells (TAC1+)
+Activated CD8 T
+EC cells (TAC1+)
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TRGV4 gdT
+Colonocyte
+Colonocyte
+EC cells (TAC1+)
+Colonocyte
+Memory B
+Colonocyte
+BEST2+ Goblet cell
+Stem cells
+Memory B
+EC cells (TAC1+)
+BEST2+ Goblet cell
+TA
+TA
+Treg
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Activated CD8 T
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+Treg
+TA
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+Naive B
+Colonocyte
+TA
+Colonocyte
+Memory B
+BEST2+ Goblet cell
+Colonocyte
+Memory B
+Memory B
+Treg
+TA
+Treg
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+Goblet cell
+BEST2+ Goblet cell
+Memory B
+TA
+BEST2+ Goblet cell
+TA
+Stem cells
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Naive B
+Memory B
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+Goblet cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Goblet cell
+Colonocyte
+TA
+IgA plasma cell
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Stem cells
+Colonocyte
+Colonocyte
+TA
+Naive B
+Colonocyte
+I cells (CCK+)
+TA
+Colonocyte
+TA
+TA
+TA
+Naive B
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Naive B
+TA
+Treg
+Memory B
+BEST2+ Goblet cell
+Colonocyte
+Memory B
+TA
+gdT
+TA
+Colonocyte
+Memory B
+Activated CD8 T
+Activated CD8 T
+BEST2+ Goblet cell
+Colonocyte
+Macrophages
+TA
+Treg
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Goblet cell
+Colonocyte
+Colonocyte
+TA
+Tfh
+Activated CD8 T
+TA
+Memory B
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Monocytes
+IgA plasma cell
+BEST2+ Goblet cell
+Goblet cell
+TA
+Memory B
+IgA plasma cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+Naive B
+Memory B
+BEST2+ Goblet cell
+Treg
+Colonocyte
+Goblet cell
+LYVE1+ Macrophage
+BEST2+ Goblet cell
+TA
+Colonocyte
+BEST2+ Goblet cell
+Activated CD8 T
+Memory B
+Stem cells
+Stem cells
+Treg
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+IgA plasma cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Treg
+TA
+TA
+Memory B
+Colonocyte
+TA
+Tfh
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Memory B
+CD8 Tmem
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Activated CD4 T
+Memory B
+Goblet cell
+TA
+Tfh
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Memory B
+Memory B
+Colonocyte
+BEST2+ Goblet cell
+EC cells (TAC1+)
+Colonocyte
+gdT
+Stem cells
+BEST2+ Goblet cell
+Treg
+BEST2+ Goblet cell
+Goblet cell
+Goblet cell
+CD8 Tmem
+Colonocyte
+Colonocyte
+Activated CD8 T
+TA
+BEST4+ epithelial
+TA
+Colonocyte
+TA
+BEST2+ Goblet cell
+Memory B
+Colonocyte
+TA
+Treg
+LZ GC cell
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Tfh
+TA
+TA
+TA
+TA
+IgA plasma cell
+Activated CD8 T
+BEST2+ Goblet cell
+TA
+Goblet cell
+Treg
+Activated CD8 T
+TA
+TA
+Memory B
+Colonocyte
+Goblet cell
+Colonocyte
+Treg
+Colonocyte
+Colonocyte
+TA
+Memory B
+TA
+TA
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Treg
+gdT
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+BEST4+ epithelial
+Goblet cell
+Activated CD8 T
+TA
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Tfh
+TA
+Memory B
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+TA
+Goblet cell
+TA
+Colonocyte
+Colonocyte
+EC cells (TAC1+)
+Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+TA
+Memory B
+TA
+TA
+Goblet cell
+TA
+Colonocyte
+Activated CD8 T
+TA
+IgA plasma cell
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+EC cells (TAC1+)
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+NK cell
+Colonocyte
+Colonocyte
+Naive B
+BEST2+ Goblet cell
+Goblet cell
+Colonocyte
+TA
+Colonocyte
+Goblet cell
+Colonocyte
+Colonocyte
+TA
+Memory B
+BEST2+ Goblet cell
+TA
+TA
+Tfh
+TA
+BEST2+ Goblet cell
+IgA plasma cell
+Activated CD8 T
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Naive B
+Treg
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+IgA plasma cell
+SELL+ CD4 T
+Treg
+Goblet cell
+TA
+TA
+Colonocyte
+TA
+Activated CD8 T
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+cDC2
+Memory B
+TA
+Colonocyte
+BEST2+ Goblet cell
+Monocytes
+Memory B
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+Activated CD8 T
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+gdT
+TA
+TA
+Memory B
+Memory B
+Colonocyte
+Memory B
+Stem cells
+TA
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Activated CD8 T
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+TA
+I cells (CCK+)
+TA
+IgA plasma cell
+TA
+Goblet cell
+Colonocyte
+Treg
+TA
+Colonocyte
+Memory B
+Goblet cell
+TA
+Memory B
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+EC cells (TAC1+)
+Activated CD8 T
+Memory B
+TA
+BEST2+ Goblet cell
+Treg
+NK cell
+BEST2+ Goblet cell
+Colonocyte
+Memory B
+BEST2+ Goblet cell
+Memory B
+Memory B
+BEST2+ Goblet cell
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+Goblet cell
+Colonocyte
+Goblet cell
+TA
+TA
+BEST2+ Goblet cell
+Naive B
+Memory B
+EC cells (TAC1+)
+Colonocyte
+gdT
+Colonocyte
+Goblet cell
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Treg
+Colonocyte
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+gdT
+Activated CD8 T
+Memory B
+Activated CD8 T
+BEST2+ Goblet cell
+Th1
+TA
+Colonocyte
+TA
+Colonocyte
+Memory B
+TA
+Goblet cell
+Goblet cell
+Activated CD8 T
+CD8 Tmem
+TA
+TA
+BEST2+ Goblet cell
+TA
+TA
+NK cell
+Colonocyte
+TA
+Treg
+Naive B
+Activated CD8 T
+TA
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+Stem cells
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+SELL+ CD4 T
+TA
+cDC2
+Memory B
+Colonocyte
+BEST2+ Goblet cell
+Goblet cell
+Colonocyte
+Naive B
+Activated CD8 T
+Treg
+IgA plasma cell
+Treg
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Tfh
+Colonocyte
+Goblet cell
+Colonocyte
+TA
+Treg
+Stem cells
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Treg
+Colonocyte
+Memory B
+Stem cells
+BEST2+ Goblet cell
+TA
+TA
+BEST2+ Goblet cell
+Stem cells
+Colonocyte
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Activated CD8 T
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+gdT
+Colonocyte
+TA
+BEST4+ epithelial
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+EC cells (TAC1+)
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+NK cell
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Stem cells
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+BEST2+ Goblet cell
+EC cells (TAC1+)
+BEST2+ Goblet cell
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+Mast cell
+Colonocyte
+NK cell
+TA
+TA
+Colonocyte
+NK cell
+TA
+BEST2+ Goblet cell
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+NK cell
+Colonocyte
+Goblet cell
+TA
+TA
+TA
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Mast cell
+BEST2+ Goblet cell
+NK cell
+Mast cell
+Colonocyte
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+BEST4+ epithelial
+Goblet cell
+TA
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+TA
+Goblet cell
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+IgA plasma cell
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Goblet cell
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Activated CD8 T
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Goblet cell
+gdT
+BEST2+ Goblet cell
+Colonocyte
+BEST4+ epithelial
+TA
+Colonocyte
+Colonocyte
+Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Treg
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+TA
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Treg
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+Goblet cell
+TA
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Activated CD8 T
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+TA
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+Mast cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Stem cells
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+Goblet cell
+BEST2+ Goblet cell
+NK cell
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Treg
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+gdT
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+TA
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Stem cells
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+EC cells (TAC1+)
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Goblet cell
+Activated CD8 T
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Stem cells
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Stem cells
+Mast cell
+gdT
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+TA
+IgA plasma cell
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+BEST4+ epithelial
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+NK cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST4+ epithelial
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+NK cell
+BEST4+ epithelial
+TA
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Goblet cell
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Goblet cell
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+gdT
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Activated CD8 T
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Mast cell
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+BEST4+ epithelial
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Mast cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+TA
+BEST4+ epithelial
+TA
+Goblet cell
+Colonocyte
+TA
+TA
+TA
+BEST2+ Goblet cell
+NK cell
+Activated CD8 T
+TA
+Colonocyte
+Colonocyte
+TA
+BEST4+ epithelial
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+Stem cells
+Goblet cell
+TA
+BEST2+ Goblet cell
+TA
+TA
+TA
+Colonocyte
+TA
+BEST2+ Goblet cell
+BEST4+ epithelial
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Mast cell
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+gdT
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+BEST4+ epithelial
+TA
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+Goblet cell
+Colonocyte
+Colonocyte
+NK cell
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Activated CD8 T
+TA
+Colonocyte
+Mast cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+TA
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+BEST4+ epithelial
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+NK cell
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+Goblet cell
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+gdT
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+gdT
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+gdT
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Goblet cell
+Activated CD4 T
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+NK cell
+Colonocyte
+Mast cell
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+Stem cells
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+gdT
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+Colonocyte
+EC cells (TAC1+)
+TA
+TA
+Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Goblet cell
+NK cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+Colonocyte
+gdT
+TA
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+BEST4+ epithelial
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+Activated CD8 T
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+gdT
+BEST4+ epithelial
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Activated CD8 T
+NK cell
+TA
+Colonocyte
+TA
+BEST4+ epithelial
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+NK cell
+BEST2+ Goblet cell
+TA
+Activated CD4 T
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+NK cell
+TA
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST4+ epithelial
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+gdT
+TA
+Goblet cell
+Colonocyte
+Colonocyte
+TA
+Activated CD8 T
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST4+ epithelial
+LTi-like NCR- ILC3
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Activated CD4 T
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+Activated CD8 T
+Colonocyte
+Colonocyte
+Colonocyte
+gdT
+Colonocyte
+TA
+TA
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Stem cells
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+NK cell
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+NK cell
+Colonocyte
+Mast cell
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+NK cell
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+TA
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Goblet cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+TA
+Stem cells
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+gdT
+Colonocyte
+Goblet cell
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+TA
+BEST2+ Goblet cell
+cDC1
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+TA
+TA
+TA
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+NK cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+Activated CD8 T
+TA
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+TA
+TA
+Goblet cell
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+Goblet cell
+gdT
+Goblet cell
+TA
+Tuft
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+Colonocyte
+TA
+Colonocyte
+Goblet cell
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+Goblet cell
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+BEST4+ epithelial
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+Stem cells
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+BEST4+ epithelial
+BEST4+ epithelial
+Colonocyte
+Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Lymphoid DC
+Colonocyte
+Goblet cell
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Goblet cell
+TA
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+TA
+Activated CD8 T
+TA
+BEST2+ Goblet cell
+Colonocyte
+Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+TA
+Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Mast cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+EC cells (TAC1+)
+TA
+Goblet cell
+TA
+NK cell
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+TA
+TA
+Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST4+ epithelial
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+TA
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Activated CD8 T
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+TA
+Mast cell
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+NK cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Goblet cell
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+NK cell
+BEST2+ Goblet cell
+Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+NK cell
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+EC cells (TAC1+)
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Mast cell
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+TA
+TA
+TA
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+Goblet cell
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+TA
+NK cell
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+BEST4+ epithelial
+TA
+TA
+Colonocyte
+Stem cells
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+MMP9+ Inflammatory macrophage
+TA
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+TA
+TA
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+gdT
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+TA
+TA
+Activated CD8 T
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+TA
+TRGV4 gdT
+TA
+Colonocyte
+NK cell
+TA
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+NK cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+BEST4+ epithelial
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Goblet cell
+Colonocyte
+Goblet cell
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+NK cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+BEST4+ epithelial
+gdT
+BEST2+ Goblet cell
+Colonocyte
+TA
+Tfh
+Colonocyte
+Colonocyte
+Activated CD8 T
+Treg
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+TA
+BEST4+ epithelial
+I cells (CCK+)
+Colonocyte
+Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST4+ epithelial
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Activated CD8 T
+BEST2+ Goblet cell
+Goblet cell
+Colonocyte
+Colonocyte
+Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+BEST4+ epithelial
+TA
+TA
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+TA
+BEST4+ epithelial
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+Memory B
+Colonocyte
+Activated CD8 T
+TA
+Colonocyte
+EC cells (TAC1+)
+TA
+TA
+LZ GC cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Memory B
+BEST4+ epithelial
+EC cells (TAC1+)
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+SELL+ CD4 T
+IgA plasma cell
+TA
+BEST2+ Goblet cell
+TA
+TA
+TA
+TA
+cDC2
+Colonocyte
+Stem cells
+BEST4+ epithelial
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+Goblet cell
+TA
+Colonocyte
+BEST4+ epithelial
+CD8 Tmem
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+TA
+Goblet cell
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+IgA plasma cell
+Colonocyte
+Colonocyte
+Memory B
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+BEST4+ epithelial
+Colonocyte
+EC cells (TAC1+)
+Colonocyte
+TA
+Colonocyte
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+BEST4+ epithelial
+Colonocyte
+TA
+BEST4+ epithelial
+BEST2+ Goblet cell
+TA
+TA
+BEST4+ epithelial
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST4+ epithelial
+Colonocyte
+TA
+Colonocyte
+Mast cell
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+EC cells (TAC1+)
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+EC cells (TAC1+)
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+TA
+Goblet cell
+BEST2+ Goblet cell
+Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+Activated CD4 T
+Colonocyte
+TA
+BEST2+ Goblet cell
+Treg
+BEST2+ Goblet cell
+I cells (CCK+)
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+BEST4+ epithelial
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+Tfh
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+Activated CD8 T
+TA
+TA
+gdT
+Colonocyte
+TA
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+Goblet cell
+Colonocyte
+Colonocyte
+Activated CD8 T
+BEST2+ Goblet cell
+TA
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+I cells (CCK+)
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+Stem cells
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+gdT
+BEST2+ Goblet cell
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Activated CD4 T
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+I cells (CCK+)
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+BEST4+ epithelial
+TA
+Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+TA
+NK cell
+Colonocyte
+Treg
+BEST2+ Goblet cell
+TA
+TA
+EC cells (TAC1+)
+TA
+Memory B
+Colonocyte
+BEST2+ Goblet cell
+Goblet cell
+Colonocyte
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Activated CD8 T
+TA
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+BEST4+ epithelial
+Colonocyte
+TA
+TA
+Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Goblet cell
+Colonocyte
+TA
+EC cells (TAC1+)
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Tfh
+Goblet cell
+Memory B
+Colonocyte
+Goblet cell
+Goblet cell
+TA
+Colonocyte
+BEST2+ Goblet cell
+CD8 Tmem
+Colonocyte
+TA
+TA
+BEST4+ epithelial
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+TA
+EC cells (TAC1+)
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+TA
+Goblet cell
+TA
+Colonocyte
+BEST2+ Goblet cell
+BEST4+ epithelial
+TA
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+BEST2+ Goblet cell
+Goblet cell
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+NK cell
+BEST2+ Goblet cell
+TA
+BEST4+ epithelial
+TA
+Colonocyte
+EC cells (TAC1+)
+TA
+TA
+BEST4+ epithelial
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+Stem cells
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Goblet cell
+Colonocyte
+Colonocyte
+TA
+TA
+BEST4+ epithelial
+TA
+Colonocyte
+BEST4+ epithelial
+NK cell
+Activated CD8 T
+TA
+BEST2+ Goblet cell
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+TA
+TA
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+TA
+TA
+BEST4+ epithelial
+BEST2+ Goblet cell
+Colonocyte
+BEST4+ epithelial
+BEST4+ epithelial
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Memory B
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+TA
+TA
+Goblet cell
+TA
+Activated CD8 T
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Stem cells
+BEST2+ Goblet cell
+Goblet cell
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+Activated CD8 T
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Treg
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST4+ epithelial
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+EC cells (TAC1+)
+Colonocyte
+Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+NK cell
+Colonocyte
+BEST4+ epithelial
+BEST4+ epithelial
+Colonocyte
+TA
+TA
+Activated CD8 T
+TA
+TA
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+BEST4+ epithelial
+Colonocyte
+BEST4+ epithelial
+TA
+Colonocyte
+TA
+Stem cells
+Colonocyte
+Colonocyte
+Colonocyte
+Stem cells
+TA
+BEST2+ Goblet cell
+TA
+Activated CD4 T
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+Stem cells
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+Colonocyte
+TA
+NK cell
+TA
+BEST2+ Goblet cell
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+EC cells (TAC1+)
+Colonocyte
+BEST2+ Goblet cell
+Stem cells
+Colonocyte
+I cells (CCK+)
+Colonocyte
+TA
+Activated CD8 T
+Colonocyte
+TA
+TA
+TA
+Colonocyte
+TA
+BEST4+ epithelial
+Colonocyte
+TA
+Colonocyte
+EC cells (TAC1+)
+BEST4+ epithelial
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+Goblet cell
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+I cells (CCK+)
+TA
+TA
+TA
+Colonocyte
+Goblet cell
+BEST4+ epithelial
+BEST2+ Goblet cell
+TA
+TA
+EC cells (TAC1+)
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+TA
+IgA plasma cell
+Activated CD8 T
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+NK cell
+Colonocyte
+BEST4+ epithelial
+TA
+Activated CD8 T
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Memory B
+Colonocyte
+Goblet cell
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+TA
+BEST4+ epithelial
+TA
+Colonocyte
+TA
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Goblet cell
+TA
+TA
+TA
+Colonocyte
+Memory B
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+gdT
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+TA
+cDC2
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Goblet cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+Memory B
+TA
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+NK cell
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+Colonocyte
+Memory B
+Colonocyte
+TA
+TA
+TA
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+TA
+BEST4+ epithelial
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+BEST4+ epithelial
+TA
+Colonocyte
+TA
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+Goblet cell
+Goblet cell
+Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+NK cell
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+Goblet cell
+TA
+Colonocyte
+TA
+Colonocyte
+EC cells (TAC1+)
+Treg
+Colonocyte
+Stem cells
+Colonocyte
+TA
+Colonocyte
+TA
+Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD4 T
+Goblet cell
+TA
+TA
+Goblet cell
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Tfh
+EC cells (TAC1+)
+Naive B
+BEST2+ Goblet cell
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Goblet cell
+Colonocyte
+cDC2
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+Colonocyte
+BEST2+ Goblet cell
+BEST4+ epithelial
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+Memory B
+TA
+BEST4+ epithelial
+TA
+TA
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Activated CD8 T
+Activated CD8 T
+Goblet cell
+TA
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Memory B
+TA
+BEST2+ Goblet cell
+Colonocyte
+BEST4+ epithelial
+BEST4+ epithelial
+BEST4+ epithelial
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+BEST4+ epithelial
+TA
+BEST2+ Goblet cell
+TA
+Goblet cell
+BEST4+ epithelial
+TA
+TA
+gdT
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+BEST4+ epithelial
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+Colonocyte
+BEST4+ epithelial
+TA
+BEST4+ epithelial
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+BEST4+ epithelial
+TA
+BEST4+ epithelial
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+BEST4+ epithelial
+TA
+Stem cells
+EC cells (TAC1+)
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Goblet cell
+Colonocyte
+BEST4+ epithelial
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+TA
+Activated CD8 T
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Activated CD8 T
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+TA
+Colonocyte
+EC cells (TAC1+)
+BEST2+ Goblet cell
+TA
+Colonocyte
+Memory B
+Activated CD8 T
+TA
+NK cell
+Colonocyte
+Stem cells
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Treg
+Colonocyte
+Stem cells
+Memory B
+Colonocyte
+Colonocyte
+NK cell
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+TA
+Activated CD4 T
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+I cells (CCK+)
+Colonocyte
+Activated CD8 T
+BEST2+ Goblet cell
+TA
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+Tfh
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST4+ epithelial
+BEST4+ epithelial
+TA
+TA
+CD8 Tmem
+NK cell
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+NK cell
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+TA
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+TA
+TA
+TA
+BEST4+ epithelial
+TA
+Goblet cell
+Colonocyte
+TA
+Immature B
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+TA
+TA
+EC cells (TAC1+)
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Immature B
+Colonocyte
+TA
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+Goblet cell
+TA
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST4+ epithelial
+Colonocyte
+TA
+Colonocyte
+Activated CD8 T
+Colonocyte
+TA
+TA
+Memory B
+TA
+TA
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+EC cells (TAC1+)
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+TA
+TA
+TA
+Activated CD4 T
+TA
+EC cells (TAC1+)
+TA
+gdT
+TA
+Goblet cell
+BEST4+ epithelial
+TA
+Colonocyte
+TA
+BEST2+ Goblet cell
+BEST4+ epithelial
+Colonocyte
+Memory B
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Goblet cell
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+BEST4+ epithelial
+TA
+Colonocyte
+Goblet cell
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+TA
+BEST2+ Goblet cell
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Goblet cell
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+TA
+BEST4+ epithelial
+Colonocyte
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+TA
+I cells (CCK+)
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Goblet cell
+TA
+TA
+TA
+TA
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+TA
+Colonocyte
+Treg
+TA
+Activated CD8 T
+TA
+TA
+BEST2+ Goblet cell
+TA
+Memory B
+TA
+CD8 Tmem
+Colonocyte
+BEST4+ epithelial
+TA
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+BEST4+ epithelial
+TA
+Activated CD8 T
+TA
+Goblet cell
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Activated CD8 T
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+Goblet cell
+BEST4+ epithelial
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+BEST4+ epithelial
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+TA
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+CD8 Tmem
+TA
+Colonocyte
+TA
+BEST2+ Goblet cell
+EC cells (TAC1+)
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST4+ epithelial
+TA
+BEST2+ Goblet cell
+TA
+Stem cells
+Colonocyte
+BEST2+ Goblet cell
+TA
+Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+TA
+BEST4+ epithelial
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+BEST4+ epithelial
+TA
+TA
+Colonocyte
+Activated CD8 T
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+EC cells (TAC1+)
+LTi-like NCR- ILC3
+TA
+Colonocyte
+Activated CD8 T
+BEST4+ epithelial
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+Memory B
+BEST4+ epithelial
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+LZ GC cell
+Colonocyte
+Goblet cell
+Colonocyte
+I cells (CCK+)
+TA
+BEST4+ epithelial
+LTi-like NCR- ILC3
+Colonocyte
+Colonocyte
+IgA plasma cell
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+TA
+Activated CD8 T
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+Goblet cell
+Stem cells
+TA
+Activated CD8 T
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Naive B
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Activated CD8 T
+Macrophages
+Colonocyte
+I cells (CCK+)
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+EC cells (TAC1+)
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Goblet cell
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Stem cells
+BEST2+ Goblet cell
+Activated CD8 T
+Treg
+Memory B
+Activated CD8 T
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Memory B
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+IgA plasma cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Memory B
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+Activated CD4 T
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+Colonocyte
+Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Treg
+Colonocyte
+TA
+TA
+Tuft
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+IgA plasma cell
+BEST2+ Goblet cell
+Stem cells
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Activated CD8 T
+IgA plasma cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+TA
+TA
+Colonocyte
+Tfh
+Colonocyte
+Colonocyte
+Colonocyte
+NK cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Th1
+Colonocyte
+Colonocyte
+TA
+Goblet cell
+TA
+BEST2+ Goblet cell
+Mast cell
+TA
+BEST2+ Goblet cell
+Treg
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Memory B
+TA
+TA
+Goblet cell
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Goblet cell
+Th1
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Stem cells
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Stem cells
+Colonocyte
+IgA plasma cell
+Colonocyte
+TA
+BEST2+ Goblet cell
+Activated CD8 T
+BEST2+ Goblet cell
+BEST4+ epithelial
+LZ GC cell
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Treg
+BEST2+ Goblet cell
+Colonocyte
+Pre-B
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Memory B
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+Treg
+BEST4+ epithelial
+Memory B
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+SELL+ CD4 T
+TA
+BEST2+ Goblet cell
+Mast cell
+BEST2+ Goblet cell
+TA
+cDC2
+Colonocyte
+Memory B
+Colonocyte
+Colonocyte
+Stem cells
+Activated CD8 T
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+Memory B
+Colonocyte
+Colonocyte
+gdT
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+FCRL4+ Memory B
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+Memory B
+Th1
+BEST4+ epithelial
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Treg
+Colonocyte
+Goblet cell
+IgG plasma cell
+Treg
+BEST2+ Goblet cell
+Activated CD8 T
+Colonocyte
+Colonocyte
+Goblet cell
+Goblet cell
+TA
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+IgA plasma cell
+Colonocyte
+TA
+I cells (CCK+)
+TA
+TA
+TA
+BEST2+ Goblet cell
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+IgA plasma cell
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Memory B
+Stem cells
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+Activated CD8 T
+TA
+Colonocyte
+TA
+gdT
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+Stem cells
+Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+M/X cells (MLN/GHRL+)
+TA
+TA
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+TA
+TA
+TA
+TA
+TA
+Goblet cell
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+Colonocyte
+Activated CD8 T
+TA
+TA
+TA
+TA
+Treg
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Goblet cell
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Goblet cell
+TA
+BEST2+ Goblet cell
+Colonocyte
+Activated CD8 T
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+TA
+TA
+Paneth
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Treg
+TA
+TA
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+TA
+I cells (CCK+)
+TA
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+TA
+BEST2+ Goblet cell
+MMP9+ Inflammatory macrophage
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Activated CD8 T
+Tfh
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Goblet cell
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Treg
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+NK cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+TA
+Activated CD8 T
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Goblet cell
+TA
+Colonocyte
+TA
+Goblet cell
+BEST2+ Goblet cell
+Stem cells
+Memory B
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+Goblet cell
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+BEST2+ Goblet cell
+TA
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+TA
+TA
+Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Tfh
+TA
+TA
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Memory B
+Colonocyte
+gdT
+Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Goblet cell
+Colonocyte
+TA
+Colonocyte
+TA
+TA
+Goblet cell
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Memory B
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Stem cells
+Colonocyte
+BEST2+ Goblet cell
+TA
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+LZ GC cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Stem cells
+TA
+Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Activated CD8 T
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+TA
+Goblet cell
+BEST4+ epithelial
+TA
+Colonocyte
+IgA plasma cell
+TA
+Goblet cell
+Colonocyte
+TA
+TA
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+Stem cells
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Stem cells
+Colonocyte
+Treg
+BEST2+ Goblet cell
+Tfh
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Goblet cell
+TA
+TA
+TA
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+BEST4+ epithelial
+Treg
+Colonocyte
+Mast cell
+BEST2+ Goblet cell
+TA
+Colonocyte
+I cells (CCK+)
+BEST2+ Goblet cell
+Treg
+BEST2+ Goblet cell
+TA
+Colonocyte
+BEST2+ Goblet cell
+LZ GC cell
+Colonocyte
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+Goblet cell
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Activated CD8 T
+Colonocyte
+Monocytes
+Colonocyte
+Colonocyte
+I cells (CCK+)
+TA
+Colonocyte
+BEST2+ Goblet cell
+BEST4+ epithelial
+Colonocyte
+BEST2+ Goblet cell
+Treg
+TA
+BEST2+ Goblet cell
+Goblet cell
+Colonocyte
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+CD8 Tmem
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+Macrophages
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Goblet cell
+Colonocyte
+Colonocyte
+TA
+Goblet cell
+BEST2+ Goblet cell
+SELL+ CD4 T
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Memory B
+Goblet cell
+BEST2+ Goblet cell
+Activated CD8 T
+TA
+TA
+TA
+Colonocyte
+Memory B
+I cells (CCK+)
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Memory B
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+cDC2
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Treg
+BEST2+ Goblet cell
+Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Activated CD8 T
+Colonocyte
+Activated CD4 T
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Activated CD8 T
+Monocytes
+TA
+Activated CD8 T
+TA
+BEST2+ Goblet cell
+Stem cells
+Colonocyte
+BEST2+ Goblet cell
+Mast cell
+TA
+Stem cells
+Colonocyte
+TA
+TA
+Colonocyte
+BEST2+ Goblet cell
+gdT
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Goblet cell
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Activated CD8 T
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Activated CD8 T
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Treg
+Colonocyte
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+Activated CD8 T
+TA
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Activated CD8 T
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+I cells (CCK+)
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+Colonocyte
+Treg
+Colonocyte
+TA
+EC cells (TAC1+)
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+Goblet cell
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Memory B
+BEST2+ Goblet cell
+Colonocyte
+TA
+LYVE1+ Macrophage
+I cells (CCK+)
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+TA
+Activated CD8 T
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Macrophages
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+Colonocyte
+Memory B
+TA
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+BEST4+ epithelial
+Colonocyte
+TA
+Stem cells
+Colonocyte
+Colonocyte
+Activated CD8 T
+Colonocyte
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+TA
+Activated CD8 T
+TA
+TA
+Treg
+Goblet cell
+CD8 Tmem
+TA
+Activated CD8 T
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+gdT
+Colonocyte
+Colonocyte
+Memory B
+Colonocyte
+Colonocyte
+Stem cells
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+Colonocyte
+Goblet cell
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+TA
+TA
+Goblet cell
+BEST2+ Goblet cell
+TA
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+BEST4+ epithelial
+Colonocyte
+IgA plasma cell
+TA
+Colonocyte
+BEST2+ Goblet cell
+TA
+Goblet cell
+BEST4+ epithelial
+TA
+IgA plasma cell
+TA
+TA
+gdT
+Colonocyte
+TA
+TA
+BEST2+ Goblet cell
+Treg
+Activated CD8 T
+Colonocyte
+BEST4+ epithelial
+Colonocyte
+Goblet cell
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+TA
+BEST2+ Goblet cell
+TA
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+TA
+Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Colonocyte
+Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+Activated CD8 T
+Colonocyte
+TA
+TA
+BEST4+ epithelial
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+TRGV4 gdT
+Colonocyte
+BEST2+ Goblet cell
+TA
+Activated CD8 T
+Colonocyte
+BEST4+ epithelial
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Goblet cell
+Treg
+TA
+TA
+Colonocyte
+TA
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+BEST2+ Goblet cell
+TA
+Colonocyte
+TA
+Colonocyte
+Goblet cell
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+TA
+TA
+BEST2+ Goblet cell
+Goblet cell
+Memory B
+Colonocyte
+BEST2+ Goblet cell
+IgA plasma cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Goblet cell
+IgA plasma cell
+TA
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+TA
+Colonocyte
+BEST2+ Goblet cell
+Goblet cell
+TA
+Treg
+TA
+TA
+TA
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+cDC1
+Colonocyte
+Colonocyte
+BEST2+ Goblet cell
+Colonocyte
+Colonocyte
+TA
+Colonocyte
+Colonocyte
+Colonocyte
+BEST4+ epithelial
+Stem cells
+Macrophages

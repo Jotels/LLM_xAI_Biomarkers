@@ -1,0 +1,9271 @@
+arterial capillary
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+IgA plasma cell
+Mature venous EC
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Treg
+Stromal 1 (ADAMDEC1+)
+myofibroblast
+Mature venous EC
+Fetal venous EC
+Stromal 1 (CCL11+)
+Adult Glia
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Immature pericyte
+Adult Glia
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+myofibroblast
+Mature venous EC
+myofibroblast
+Mature venous EC
+arterial capillary
+Stromal 2 (NPY+)
+Mature venous EC
+Mature venous EC
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+arterial capillary
+venous capillary
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+arterial capillary
+Mature venous EC
+Mature venous EC
+Mature venous EC
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+mLTo
+Adult Glia
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+arterial capillary
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Mature venous EC
+Immature pericyte
+T reticular
+Contractile pericyte (PLN+)
+Stromal 4 (MMP1+)
+Immature pericyte
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Mature venous EC
+Immature pericyte
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Contractile pericyte (PLN+)
+arterial capillary
+Fetal venous EC
+Stromal 2 (NPY+)
+Mature arterial EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature arterial EC
+Mature venous EC
+Mature venous EC
+Pericyte
+Immature pericyte
+Stromal 2 (NPY+)
+mLTo
+Fetal arterial EC
+Contractile pericyte (PLN+)
+Pericyte
+Mature arterial EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+arterial capillary
+Mature venous EC
+Pericyte
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+T reticular
+arterial capillary
+Stromal 2 (NPY+)
+myofibroblast
+Pericyte
+Stromal 2 (NPY+)
+venous capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+T reticular
+Mature venous EC
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 4 (MMP1+)
+Pericyte
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+arterial capillary
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+arterial capillary
+arterial capillary
+arterial capillary
+Mature arterial EC
+arterial capillary
+arterial capillary
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+arterial capillary
+arterial capillary
+Contractile pericyte (PLN+)
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Immature pericyte
+LEC6 (ADAMTS4+)
+arterial capillary
+Pericyte
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Mature venous EC
+arterial capillary
+Mature venous EC
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+venous capillary
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Pericyte
+arterial capillary
+Stromal 2 (NPY+)
+Pericyte
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 2 (NPY+)
+Mature venous EC
+Pericyte
+arterial capillary
+arterial capillary
+Mature venous EC
+Contractile pericyte (PLN+)
+Mature venous EC
+Pericyte
+Adult Glia
+Mature venous EC
+Pericyte
+Stromal 2 (NPY+)
+Mature venous EC
+arterial capillary
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+T reticular
+Pericyte
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+myofibroblast
+arterial capillary
+Mature venous EC
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Pericyte
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Adult Glia
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Adult Glia
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Pericyte
+arterial capillary
+arterial capillary
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+myofibroblast
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+arterial capillary
+Stromal 4 (MMP1+)
+Mature venous EC
+IgA plasma cell
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Adult Glia
+Mature arterial EC
+Pericyte
+Mature venous EC
+Stromal 2 (NPY+)
+venous capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Pericyte
+Adult Glia
+Stromal 1 (CCL11+)
+Pericyte
+Stromal 4 (MMP1+)
+Contractile pericyte (PLN+)
+arterial capillary
+Mature arterial EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+arterial capillary
+arterial capillary
+Contractile pericyte (PLN+)
+Mature venous EC
+Contractile pericyte (PLN+)
+Stromal 4 (MMP1+)
+arterial capillary
+Stromal 2 (NPY+)
+Mature venous EC
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Mature venous EC
+arterial capillary
+arterial capillary
+Stromal 4 (MMP1+)
+Mature venous EC
+Adult Glia
+Stromal 2 (NPY+)
+Mature venous EC
+arterial capillary
+Adult Glia
+Adult Glia
+Activated CD8 T
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Immature pericyte
+Mature arterial EC
+T reticular
+Adult Glia
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+T reticular
+Stromal 2 (NPY+)
+Pericyte
+myofibroblast
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Mature arterial EC
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Mature venous EC
+Contractile pericyte (PLN+)
+Mature venous EC
+Mature venous EC
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Pericyte
+Stromal 2 (NPY+)
+Pericyte
+Mature venous EC
+IgA plasma cell
+arterial capillary
+arterial capillary
+Pericyte
+Stromal 1 (CCL11+)
+myofibroblast
+Mature venous EC
+Stromal 2 (NPY+)
+Adult Glia
+arterial capillary
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Pericyte
+Contractile pericyte (PLN+)
+Stromal 1 (ADAMDEC1+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Mature venous EC
+Adult Glia
+arterial capillary
+Stromal 2 (NPY+)
+arterial capillary
+Mature venous EC
+Activated CD8 T
+Mature venous EC
+arterial capillary
+Contractile pericyte (PLN+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+venous capillary
+Mature arterial EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+myofibroblast
+T reticular
+Mature venous EC
+Contractile pericyte (PLN+)
+Stromal 4 (MMP1+)
+Pericyte
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature arterial EC
+Pericyte
+Mature venous EC
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Glia 1 (DHH+)
+Mature venous EC
+Mature venous EC
+arterial capillary
+Mature arterial EC
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Pericyte
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+arterial capillary
+IgA plasma cell
+Adult Glia
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Mature venous EC
+Adult Glia
+Stromal 2 (NPY+)
+Mature venous EC
+arterial capillary
+Stromal 2 (NPY+)
+Mature venous EC
+Mature venous EC
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Mature venous EC
+Mature venous EC
+arterial capillary
+Mature venous EC
+Mature venous EC
+Mature venous EC
+Mature venous EC
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+arterial capillary
+Stromal 2 (NPY+)
+venous capillary
+arterial capillary
+Stromal 2 (NPY+)
+venous capillary
+IgA plasma cell
+LEC3 (ADGRG3+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 2 (NPY+)
+Mature arterial EC
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Mature venous EC
+Pericyte
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Mature venous EC
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Mature venous EC
+LEC3 (ADGRG3+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+venous capillary
+Immature pericyte
+Adult Glia
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Mature venous EC
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Pericyte
+arterial capillary
+arterial capillary
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Mature venous EC
+Mature venous EC
+Immature pericyte
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 2 (NPY+)
+Pericyte
+IgM plasma cell
+Mature venous EC
+Stromal 1 (CCL11+)
+Mature arterial EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Mature arterial EC
+Stromal 2 (NPY+)
+Pericyte
+Mature venous EC
+Pericyte
+Adult Glia
+Stromal 2 (NPY+)
+arterial capillary
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Mature venous EC
+arterial capillary
+Mature arterial EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Pericyte
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature arterial EC
+Mature venous EC
+Stromal 1 (CCL11+)
+Mesothelium
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+T reticular
+Stromal 2 (NPY+)
+arterial capillary
+Mature venous EC
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+arterial capillary
+Mature arterial EC
+Contractile pericyte (PLN+)
+Immature pericyte
+Mature venous EC
+Adult Glia
+Stromal 2 (NPY+)
+arterial capillary
+Mature venous EC
+Mature arterial EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Mature venous EC
+arterial capillary
+Mature venous EC
+Stromal 4 (MMP1+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Mature venous EC
+Stromal 2 (NPY+)
+Adult Glia
+Adult Glia
+Stromal 1 (CCL11+)
+arterial capillary
+Adult Glia
+Mature venous EC
+Adult Glia
+Adult Glia
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature arterial EC
+Immature pericyte
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Pericyte
+Adult Glia
+arterial capillary
+Pericyte
+myofibroblast
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Mature arterial EC
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Mature arterial EC
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+arterial capillary
+Stromal 4 (MMP1+)
+Adult Glia
+Pericyte
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+arterial capillary
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Pericyte
+Stromal 1 (CCL11+)
+myofibroblast
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+myofibroblast
+Mature arterial EC
+Stromal 1 (CCL11+)
+Mature venous EC
+arterial capillary
+Mature arterial EC
+Stromal 2 (NPY+)
+Mature venous EC
+arterial capillary
+myofibroblast
+Mature venous EC
+Stromal 2 (NPY+)
+LEC6 (ADAMTS4+)
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+arterial capillary
+Mature venous EC
+Adult Glia
+LEC4 (STAB2+)
+Mature venous EC
+LEC4 (STAB2+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 4 (MMP1+)
+Activated CD4 T
+Pericyte
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+mLTo
+Mature venous EC
+Mature venous EC
+Adult Glia
+Stromal 4 (MMP1+)
+Contractile pericyte (PLN+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature arterial EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Pericyte
+Contractile pericyte (PLN+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Adult Glia
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Pericyte
+Mature venous EC
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Mature venous EC
+Mature venous EC
+arterial capillary
+mLTo
+Mature venous EC
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Contractile pericyte (PLN+)
+Mature venous EC
+Mature venous EC
+Immature pericyte
+Adult Glia
+Stromal 2 (NPY+)
+Pericyte
+Fetal arterial EC
+Mature venous EC
+Contractile pericyte (PLN+)
+Mature arterial EC
+arterial capillary
+Mature arterial EC
+Adult Glia
+Contractile pericyte (PLN+)
+Mature venous EC
+Mature venous EC
+arterial capillary
+Pericyte
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+arterial capillary
+Immature pericyte
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+arterial capillary
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Immature pericyte
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+arterial capillary
+Mature venous EC
+Mature venous EC
+Contractile pericyte (PLN+)
+Mature venous EC
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Pericyte
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Mature venous EC
+arterial capillary
+Mature venous EC
+arterial capillary
+Stromal 2 (NPY+)
+LEC5 (CLDN11+)
+Stromal 2 (NPY+)
+Mature arterial EC
+Stromal 2 (NPY+)
+Adult Glia
+arterial capillary
+Stromal 2 (NPY+)
+Mature venous EC
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Immature pericyte
+arterial capillary
+Activated T
+Mature venous EC
+myofibroblast
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+ILC3
+Adult Glia
+Pericyte
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (CCL11+)
+Mature venous EC
+arterial capillary
+Glia 1 (DHH+)
+Adult Glia
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 4 (MMP1+)
+Contractile pericyte (PLN+)
+arterial capillary
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Adult Glia
+Adult Glia
+Stromal 2 (NPY+)
+Adult Glia
+Pericyte
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Mature venous EC
+Contractile pericyte (PLN+)
+Mature venous EC
+Stromal 2 (NPY+)
+Adult Glia
+Mature arterial EC
+Mature venous EC
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Mature arterial EC
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Immature pericyte
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Adult Glia
+myofibroblast
+Adult Glia
+Mature venous EC
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+arterial capillary
+myofibroblast
+Pericyte
+arterial capillary
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Contractile pericyte (PLN+)
+Mature venous EC
+Pericyte
+Mature venous EC
+arterial capillary
+Stromal 2 (NPY+)
+Fetal arterial EC
+Contractile pericyte (PLN+)
+Branch B1 (eMN)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Adult Glia
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Mature arterial EC
+arterial capillary
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Pericyte
+myofibroblast
+Stromal 2 (NPY+)
+Mature venous EC
+arterial capillary
+Adult Glia
+Mature venous EC
+Mature venous EC
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Adult Glia
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Pericyte
+arterial capillary
+Immature pericyte
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Mature venous EC
+Stromal 2 (NPY+)
+arterial capillary
+arterial capillary
+Mature venous EC
+Mature venous EC
+arterial capillary
+Mature arterial EC
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Pericyte
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+arterial capillary
+Mature venous EC
+Contractile pericyte (PLN+)
+Mature venous EC
+Mature venous EC
+Mature arterial EC
+Stromal 4 (MMP1+)
+Contractile pericyte (PLN+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Mature venous EC
+myofibroblast
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Immature pericyte
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Adult Glia
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+arterial capillary
+Mature venous EC
+Stromal 2 (NPY+)
+Mature venous EC
+Mature arterial EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Glia 1 (DHH+)
+Mature venous EC
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Pericyte
+arterial capillary
+arterial capillary
+Adult Glia
+Stromal 2 (NPY+)
+Immature pericyte
+Mature venous EC
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+LEC4 (STAB2+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Pericyte
+Mature venous EC
+Stromal 2 (NPY+)
+Adult Glia
+ILC3
+Adult Glia
+Stromal 2 (NPY+)
+Mature venous EC
+Contractile pericyte (PLN+)
+Adult Glia
+Adult Glia
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+arterial capillary
+IgA plasma cell
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Stromal 4 (MMP1+)
+Mature venous EC
+Pericyte
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Mature arterial EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+arterial capillary
+arterial capillary
+Stromal 2 (NPY+)
+Mature venous EC
+Mature venous EC
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+IgA plasma cell
+Stromal 1 (CCL11+)
+Pericyte
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Pericyte
+arterial capillary
+arterial capillary
+Stromal 2 (NPY+)
+Immature pericyte
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+arterial capillary
+Contractile pericyte (PLN+)
+Contractile pericyte (PLN+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 1 (CCL11+)
+Immature pericyte
+Stromal 1 (CCL11+)
+Pericyte
+arterial capillary
+arterial capillary
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Pericyte
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Mature venous EC
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+LEC3 (ADGRG3+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+angiogenic pericyte
+Mature venous EC
+arterial capillary
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Immature pericyte
+arterial capillary
+arterial capillary
+Stromal 2 (NPY+)
+Mature venous EC
+arterial capillary
+Stromal 2 (NPY+)
+Pericyte
+Mature venous EC
+IgM plasma cell
+IgM plasma cell
+Stromal 2 (NPY+)
+Mature venous EC
+Contractile pericyte (PLN+)
+arterial capillary
+Stromal 2 (NPY+)
+Mature venous EC
+Mature arterial EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Pericyte
+Mature arterial EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Pericyte
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 1 (CCL11+)
+Pericyte
+Pericyte
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Mature arterial EC
+Pericyte
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Fetal venous EC
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Mature arterial EC
+Stromal 4 (MMP1+)
+Stromal 1 (ADAMDEC1+)
+Adult Glia
+Stromal 1 (CCL11+)
+Mature arterial EC
+arterial capillary
+arterial capillary
+Mature arterial EC
+arterial capillary
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Mature venous EC
+Mature venous EC
+Stromal 2 (NPY+)
+Mature venous EC
+Mature venous EC
+Mature venous EC
+Stromal 2 (NPY+)
+Mature venous EC
+arterial capillary
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Immature pericyte
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Mature venous EC
+arterial capillary
+Pericyte
+Pericyte
+Contractile pericyte (PLN+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+myofibroblast
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 2 (NPY+)
+Mature arterial EC
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Mature venous EC
+Mature venous EC
+myofibroblast
+Contractile pericyte (PLN+)
+Pericyte
+RBC
+Stromal 1 (CCL11+)
+Mature venous EC
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 4 (MMP1+)
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature arterial EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Mature arterial EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+venous capillary
+Adult Glia
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+arterial capillary
+Pericyte
+Contractile pericyte (PLN+)
+myofibroblast
+arterial capillary
+Stromal 2 (NPY+)
+Pericyte
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Pericyte
+Stromal 2 (NPY+)
+arterial capillary
+myofibroblast
+Mature arterial EC
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Pericyte
+Mature venous EC
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+venous capillary
+arterial capillary
+Stromal 2 (NPY+)
+arterial capillary
+Adult Glia
+Pericyte
+arterial capillary
+Mature arterial EC
+arterial capillary
+Contractile pericyte (PLN+)
+LEC4 (STAB2+)
+arterial capillary
+Mature arterial EC
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Contractile pericyte (PLN+)
+Mature arterial EC
+IgA plasma cell
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Transitional Stromal 3 (C3+)
+Mature arterial EC
+arterial capillary
+Pericyte
+LEC6 (ADAMTS4+)
+Stromal 2 (NPY+)
+Pericyte
+Stromal 2 (NPY+)
+Pericyte
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+arterial capillary
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+myofibroblast
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+LEC4 (STAB2+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+arterial capillary
+arterial capillary
+Mature arterial EC
+Stromal 2 (NPY+)
+Pericyte
+Mature venous EC
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Pericyte
+myofibroblast
+Mature venous EC
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Adult Glia
+Pericyte
+Pericyte
+Mature venous EC
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Pericyte
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+arterial capillary
+T reticular
+Mature venous EC
+Stromal 1 (CCL11+)
+arterial capillary
+Mature venous EC
+Stromal 1 (ADAMDEC1+)
+Immature pericyte
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+mLTo
+Mature venous EC
+Contractile pericyte (PLN+)
+Pericyte
+Mature venous EC
+arterial capillary
+Stromal 2 (NPY+)
+myofibroblast
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+MMP9+ Inflammatory macrophage
+Pericyte
+Contractile pericyte (PLN+)
+Mature venous EC
+Pericyte
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+mLTo
+Mature venous EC
+arterial capillary
+Contractile pericyte (PLN+)
+arterial capillary
+Mature venous EC
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Mature venous EC
+arterial capillary
+Stromal 1 (CCL11+)
+myofibroblast
+Mature arterial EC
+Immature pericyte
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+arterial capillary
+Fetal venous EC
+Mature venous EC
+Stromal 2 (NPY+)
+arterial capillary
+Mature venous EC
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Pericyte
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Pericyte
+arterial capillary
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+arterial capillary
+Adult Glia
+Adult Glia
+Stromal 2 (NPY+)
+arterial capillary
+Glia 1 (DHH+)
+Stromal 1 (CCL11+)
+myofibroblast
+Adult Glia
+arterial capillary
+Immature pericyte
+Immature pericyte
+T reticular
+Mature venous EC
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Pericyte
+Pericyte
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Pericyte
+Mature venous EC
+Stromal 2 (NPY+)
+Pericyte
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Adult Glia
+arterial capillary
+Mature venous EC
+Pericyte
+Mature arterial EC
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Mature venous EC
+arterial capillary
+Stromal 2 (NPY+)
+Mature venous EC
+Mature arterial EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+arterial capillary
+Mature venous EC
+Adult Glia
+Stromal 1 (ADAMDEC1+)
+Pericyte
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Contractile pericyte (PLN+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Immature pericyte
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Pericyte
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+arterial capillary
+arterial capillary
+Mature arterial EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 2 (NPY+)
+Mature venous EC
+venous capillary
+arterial capillary
+Pericyte
+Stromal 2 (NPY+)
+arterial capillary
+arterial capillary
+Stromal 2 (NPY+)
+arterial capillary
+Mature venous EC
+Mature arterial EC
+Pericyte
+Stromal 4 (MMP1+)
+Adult Glia
+venous capillary
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+myofibroblast
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Activated CD4 T
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+arterial capillary
+IgM plasma cell
+arterial capillary
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Mature venous EC
+Mature venous EC
+Adult Glia
+LEC3 (ADGRG3+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Adult Glia
+Mature venous EC
+Stromal 2 (NPY+)
+Pericyte
+Pericyte
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Pericyte
+Contractile pericyte (PLN+)
+Mature venous EC
+arterial capillary
+Stromal 3 (C7+)
+Stromal 2 (NPY+)
+Pericyte
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (ADAMDEC1+)
+myofibroblast
+Mature venous EC
+Mature arterial EC
+Mature venous EC
+Stromal 2 (NPY+)
+Mature venous EC
+Adult Glia
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+LEC3 (ADGRG3+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Mature venous EC
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+arterial capillary
+arterial capillary
+Stromal 1 (CCL11+)
+arterial capillary
+LEC4 (STAB2+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Pericyte
+Stromal 2 (NPY+)
+Pericyte
+Adult Glia
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Mature venous EC
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 2 (NPY+)
+Mature venous EC
+Mature venous EC
+Stromal 2 (NPY+)
+Mature arterial EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Mature venous EC
+Mature venous EC
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+arterial capillary
+Mature venous EC
+Stromal 2 (NPY+)
+Mature venous EC
+Mature venous EC
+Stromal 2 (NPY+)
+Mature venous EC
+arterial capillary
+Stromal 2 (NPY+)
+arterial capillary
+Mature venous EC
+Adult Glia
+arterial capillary
+Stromal 4 (MMP1+)
+venous capillary
+Mature venous EC
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Mature arterial EC
+Stromal 1 (CCL11+)
+Pericyte
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+T reticular
+Stromal 2 (NPY+)
+arterial capillary
+Mature venous EC
+Pericyte
+arterial capillary
+arterial capillary
+arterial capillary
+arterial capillary
+Mature venous EC
+LEC4 (STAB2+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+arterial capillary
+Adult Glia
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Mature venous EC
+arterial capillary
+Pericyte
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+arterial capillary
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+venous capillary
+Contractile pericyte (PLN+)
+Pericyte
+Stromal 2 (NPY+)
+arterial capillary
+Mature venous EC
+Stromal 2 (NPY+)
+venous capillary
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+myofibroblast
+myofibroblast
+Adult Glia
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Contractile pericyte (PLN+)
+mLTo
+Mature venous EC
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Pericyte
+arterial capillary
+Mature venous EC
+Mature venous EC
+arterial capillary
+Pericyte
+Stromal 2 (NPY+)
+Mature venous EC
+Mature arterial EC
+Mature venous EC
+Mature venous EC
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Mature venous EC
+Fetal venous EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Pericyte
+Contractile pericyte (PLN+)
+arterial capillary
+MMP9+ Inflammatory macrophage
+Mature venous EC
+arterial capillary
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+LEC4 (STAB2+)
+Stromal 2 (NPY+)
+arterial capillary
+Mature venous EC
+Mature arterial EC
+arterial capillary
+Pericyte
+Mature venous EC
+arterial capillary
+Adult Glia
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Immature pericyte
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+myofibroblast
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+arterial capillary
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Mature venous EC
+gdT
+myofibroblast
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Pericyte
+Mature venous EC
+Adult Glia
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+arterial capillary
+Stromal 2 (NPY+)
+Mature venous EC
+Adult Glia
+arterial capillary
+Adult Glia
+arterial capillary
+Stromal 1 (CCL11+)
+myofibroblast
+Stromal 2 (NPY+)
+Pericyte
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Mature venous EC
+Mature arterial EC
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Mature venous EC
+T reticular
+Pericyte
+Stromal 2 (NPY+)
+Adult Glia
+Mature venous EC
+Stromal 1 (CCL11+)
+Mature venous EC
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Mature venous EC
+Mature venous EC
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Mature venous EC
+arterial capillary
+IgA plasma cell
+Stromal 2 (NPY+)
+Pericyte
+Stromal 1 (CCL11+)
+Mature venous EC
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Mature venous EC
+Mature venous EC
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Mature venous EC
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Mature venous EC
+Pericyte
+Mature venous EC
+Stromal 2 (NPY+)
+arterial capillary
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+cDC2
+Mature venous EC
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature arterial EC
+Stromal 1 (ADAMDEC1+)
+arterial capillary
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Pericyte
+Mature venous EC
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+arterial capillary
+arterial capillary
+Stromal 4 (MMP1+)
+Mature venous EC
+Mature venous EC
+Stromal 2 (NPY+)
+Mature arterial EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 2 (NPY+)
+Mature venous EC
+Mature venous EC
+Stromal 1 (CCL11+)
+Pericyte
+T reticular
+Adult Glia
+Adult Glia
+arterial capillary
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Pericyte
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Adult Glia
+Mature arterial EC
+Stromal 1 (CCL11+)
+Adult Glia
+Pericyte
+Memory B
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Mature venous EC
+arterial capillary
+Adult Glia
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Adult Glia
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Mature venous EC
+Pericyte
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Adult Glia
+mLTo
+Stromal 4 (MMP1+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+arterial capillary
+Adult Glia
+arterial capillary
+Stromal 2 (NPY+)
+Mature venous EC
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Adult Glia
+Mature venous EC
+Contractile pericyte (PLN+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 3 (C7+)
+Stromal 1 (CCL11+)
+arterial capillary
+arterial capillary
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Mature venous EC
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+arterial capillary
+Adult Glia
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+arterial capillary
+Mature venous EC
+Mature venous EC
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Mature venous EC
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Stromal 4 (MMP1+)
+myofibroblast (RSPO2+)
+Stromal 4 (MMP1+)
+Adult Glia
+arterial capillary
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Adult Glia
+arterial capillary
+T reticular
+Stromal 1 (CCL11+)
+Adult Glia
+Adult Glia
+myofibroblast
+Stromal 2 (NPY+)
+Adult Glia
+Pericyte
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (CH25H+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+T reticular
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Mature venous EC
+Pericyte
+arterial capillary
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Pericyte
+arterial capillary
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Adult Glia
+Stromal 1 (CCL11+)
+Adult Glia
+arterial capillary
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Adult Glia
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+arterial capillary
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+arterial capillary
+Mature arterial EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Adult Glia
+Adult Glia
+Stromal 1 (CCL11+)
+Adult Glia
+arterial capillary
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Adult Glia
+Adult Glia
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+arterial capillary
+Pericyte
+Stromal 4 (MMP1+)
+Pericyte
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Pericyte
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Adult Glia
+Fetal arterial EC
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+arterial capillary
+Mature venous EC
+Mature venous EC
+Stromal 1 (CCL11+)
+Pericyte
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+myofibroblast
+Mature venous EC
+Mature arterial EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Pericyte
+arterial capillary
+Stromal 2 (NPY+)
+Adult Glia
+arterial capillary
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Contractile pericyte (PLN+)
+Pericyte
+Stromal 2 (NPY+)
+Mature venous EC
+Mature venous EC
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+myofibroblast
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Adult Glia
+Stromal 1 (CCL11+)
+arterial capillary
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Adult Glia
+Mature venous EC
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Pericyte
+Stromal 2 (NPY+)
+Adult Glia
+Pericyte
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Adult Glia
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Immature pericyte
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Mature venous EC
+LEC3 (ADGRG3+)
+Pericyte
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Pericyte
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+myofibroblast
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+arterial capillary
+Pericyte
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Pericyte
+arterial capillary
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+arterial capillary
+arterial capillary
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Pericyte
+Adult Glia
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Mature venous EC
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+T reticular
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Pericyte
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 4 (MMP1+)
+Pericyte
+Adult Glia
+Pericyte
+Stromal 1 (CCL11+)
+Mature venous EC
+mLTo
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Contractile pericyte (PLN+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+arterial capillary
+arterial capillary
+T reticular
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Mature venous EC
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 4 (MMP1+)
+Pericyte
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Pericyte
+Mature venous EC
+Mature venous EC
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Adult Glia
+Mature venous EC
+Stromal 2 (NPY+)
+Pericyte
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+arterial capillary
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 2 (NPY+)
+arterial capillary
+Mature venous EC
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Stromal 4 (MMP1+)
+arterial capillary
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Adult Glia
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Mature venous EC
+Stromal 2 (NPY+)
+arterial capillary
+Pericyte
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Adult Glia
+Mature venous EC
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+arterial capillary
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+LEC3 (ADGRG3+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Adult Glia
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Mature venous EC
+mLN Stroma (FMO2+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+arterial capillary
+Stromal 2 (NPY+)
+T reticular
+Mature venous EC
+Adult Glia
+Stromal 4 (MMP1+)
+Pericyte
+Mature arterial EC
+Adult Glia
+Adult Glia
+Immature pericyte
+Adult Glia
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 2 (NPY+)
+Pericyte
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+arterial capillary
+Mature arterial EC
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Adult Glia
+Adult Glia
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 4 (MMP1+)
+LYVE1+ Macrophage
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Contractile pericyte (PLN+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Mature venous EC
+Adult Glia
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Adult Glia
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Fetal arterial EC
+Mature arterial EC
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Pericyte
+Stromal 2 (NPY+)
+LEC4 (STAB2+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Mature venous EC
+Mature venous EC
+Pericyte
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Contractile pericyte (PLN+)
+Mature venous EC
+arterial capillary
+Mature venous EC
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Adult Glia
+Pericyte
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+T reticular
+Stromal 1 (ADAMDEC1+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Adult Glia
+Mature venous EC
+Adult Glia
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Mature venous EC
+T reticular
+Contractile pericyte (PLN+)
+Adult Glia
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+mLTo
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 4 (MMP1+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+T reticular
+Pericyte
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Mature venous EC
+Contractile pericyte (PLN+)
+Activated CD8 T
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Pericyte
+arterial capillary
+Pericyte
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 2 (NPY+)
+T reticular
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Pericyte
+Stromal 4 (MMP1+)
+Mature venous EC
+Contractile pericyte (PLN+)
+Adult Glia
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Mature arterial EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+arterial capillary
+Adult Glia
+Stromal 4 (MMP1+)
+arterial capillary
+Mature venous EC
+Stromal 1 (ADAMDEC1+)
+Adult Glia
+Pericyte
+Contractile pericyte (PLN+)
+Fetal arterial EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (ADAMDEC1+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Adult Glia
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+T reticular
+Mature venous EC
+Stromal 2 (NPY+)
+Adult Glia
+Adult Glia
+Stromal 1 (CCL11+)
+arterial capillary
+Pericyte
+arterial capillary
+Stromal 4 (MMP1+)
+Pericyte
+Stromal 4 (MMP1+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+mLTo
+Pericyte
+Pericyte
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Pericyte
+Immature pericyte
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Adult Glia
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Pericyte
+Stromal 4 (MMP1+)
+arterial capillary
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Mature venous EC
+arterial capillary
+Glia 2 (ELN+)
+Mature arterial EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Mature arterial EC
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Mature venous EC
+Mature venous EC
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+arterial capillary
+Mature venous EC
+Pericyte
+Stromal 2 (NPY+)
+Adult Glia
+Adult Glia
+Stromal 1 (CCL11+)
+Pericyte
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Adult Glia
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Pericyte
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+LEC3 (ADGRG3+)
+Stromal 4 (MMP1+)
+arterial capillary
+Adult Glia
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+myofibroblast
+arterial capillary
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Pericyte
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgM plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Mature venous EC
+arterial capillary
+Mature venous EC
+Adult Glia
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Pericyte
+Mature venous EC
+Fetal venous EC
+Stromal 2 (NPY+)
+Adult Glia
+Mature venous EC
+Pericyte
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Pericyte
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Mature venous EC
+Adult Glia
+Stromal 4 (MMP1+)
+Pericyte
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Fetal venous EC
+Mature arterial EC
+Stromal 1 (ADAMDEC1+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Pericyte
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Adult Glia
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Mature venous EC
+Mature venous EC
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Mature venous EC
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 2 (NPY+)
+Mature venous EC
+Adult Glia
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Adult Glia
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Mature venous EC
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Pericyte
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Adult Glia
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature arterial EC
+Stromal 3 (C7+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Pericyte
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Mature venous EC
+Stromal 1 (CCL11+)
+arterial capillary
+Adult Glia
+Contractile pericyte (PLN+)
+arterial capillary
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Contractile pericyte (PLN+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 4 (MMP1+)
+arterial capillary
+T reticular
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Mature venous EC
+Adult Glia
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Adult Glia
+Mature venous EC
+Pericyte
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Pericyte
+Mature venous EC
+Adult Glia
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Adult Glia
+Stromal 2 (NPY+)
+Mature arterial EC
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (CCL11+)
+Glia 1 (DHH+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Mature arterial EC
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Pericyte
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Pericyte
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Pericyte
+Stromal 4 (MMP1+)
+Pericyte
+Adult Glia
+Stromal 2 (NPY+)
+arterial capillary
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Pericyte
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Adult Glia
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgM plasma cell
+Contractile pericyte (PLN+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (CCL11+)
+gdT
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Pericyte
+Mature arterial EC
+Adult Glia
+Stromal 4 (MMP1+)
+arterial capillary
+Stromal 4 (MMP1+)
+Mature venous EC
+arterial capillary
+Mature venous EC
+Adult Glia
+Stromal 4 (MMP1+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Adult Glia
+Pericyte
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+T reticular
+Stromal 4 (MMP1+)
+arterial capillary
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Mature venous EC
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Pericyte
+Mature venous EC
+Pericyte
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+T reticular
+Stromal 1 (CCL11+)
+Fetal arterial EC
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+arterial capillary
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Mature venous EC
+Mature venous EC
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Pericyte
+Stromal 4 (MMP1+)
+arterial capillary
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Pericyte
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+arterial capillary
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+myofibroblast
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Pericyte
+Stromal 2 (NPY+)
+Pericyte
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Mature arterial EC
+Adult Glia
+arterial capillary
+Stromal 4 (MMP1+)
+Adult Glia
+Mature venous EC
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Adult Glia
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Mature arterial EC
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Mature arterial EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Adult Glia
+arterial capillary
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Pericyte
+Stromal 2 (NPY+)
+arterial capillary
+Adult Glia
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Mature arterial EC
+Stromal 2 (NPY+)
+Adult Glia
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Transitional Stromal 3 (C3+)
+Stromal 4 (MMP1+)
+Adult Glia
+Stromal 4 (MMP1+)
+Mature venous EC
+Adult Glia
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Adult Glia
+Pericyte
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 4 (MMP1+)
+arterial capillary
+IgA plasma cell
+Mature arterial EC
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 4 (MMP1+)
+arterial capillary
+Stromal 1 (CCL11+)
+arterial capillary
+Mature venous EC
+Adult Glia
+arterial capillary
+Adult Glia
+Immature pericyte
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Adult Glia
+Pericyte
+Mature arterial EC
+Stromal 4 (MMP1+)
+Adult Glia
+Adult Glia
+mLTo
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+arterial capillary
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Adult Glia
+Adult Glia
+Pericyte
+myofibroblast
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Mature arterial EC
+Pericyte
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+arterial capillary
+Adult Glia
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+arterial capillary
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+arterial capillary
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Mature arterial EC
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Pericyte
+Mature venous EC
+arterial capillary
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Adult Glia
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Adult Glia
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+IgM plasma cell
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 4 (MMP1+)
+Pericyte
+Adult Glia
+Stromal 2 (NPY+)
+arterial capillary
+Mature venous EC
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Pericyte
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Adult Glia
+Adult Glia
+Stromal 4 (MMP1+)
+Mature venous EC
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+myofibroblast
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+LEC3 (ADGRG3+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Pericyte
+Mature venous EC
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 4 (MMP1+)
+arterial capillary
+Mature venous EC
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Mature arterial EC
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Pericyte
+Pericyte
+Pericyte
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Adult Glia
+arterial capillary
+Stromal 1 (CCL11+)
+arterial capillary
+Contractile pericyte (PLN+)
+Adult Glia
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Adult Glia
+arterial capillary
+Adult Glia
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+T reticular
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 3 (C7+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Adult Glia
+venous capillary
+Stromal 2 (NPY+)
+Pericyte
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Adult Glia
+Fetal arterial EC
+Pericyte
+Mature venous EC
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Adult Glia
+Stromal 1 (CCL11+)
+Adult Glia
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Adult Glia
+Mature venous EC
+Adult Glia
+myofibroblast (RSPO2+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+arterial capillary
+Mature venous EC
+arterial capillary
+Activated CD4 T
+Stromal 1 (CCL11+)
+arterial capillary
+Mature venous EC
+T reticular
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Stromal 1 (ADAMDEC1+)
+Pericyte
+Pericyte
+Adult Glia
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+arterial capillary
+Mature venous EC
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 3 (C7+)
+Adult Glia
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Mature venous EC
+arterial capillary
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Pericyte
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+arterial capillary
+Pericyte
+Stromal 2 (NPY+)
+Pericyte
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Treg
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 2 (NPY+)
+Mature venous EC
+Contractile pericyte (PLN+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 2 (NPY+)
+T reticular
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 4 (MMP1+)
+arterial capillary
+Stromal 2 (NPY+)
+Pericyte
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Pericyte
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Adult Glia
+Mature venous EC
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Mature arterial EC
+Pericyte
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+mLN Stroma (FMO2+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+T reticular
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+T reticular
+arterial capillary
+Stromal 4 (MMP1+)
+Pericyte
+T reticular
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 4 (MMP1+)
+arterial capillary
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 4 (MMP1+)
+Mature venous EC
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+arterial capillary
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+arterial capillary
+Pericyte
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 1 (ADAMDEC1+)
+mLTo
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+venous capillary
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+mLTo
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+T reticular
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+myofibroblast
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Adult Glia
+Adult Glia
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Adult Glia
+Mature venous EC
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Mature arterial EC
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Pericyte
+Stromal 2 (NPY+)
+Stromal 3 (C7+)
+Pericyte
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+arterial capillary
+T reticular
+Pericyte
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Pericyte
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Mature venous EC
+Adult Glia
+Stromal 4 (MMP1+)
+Contractile pericyte (PLN+)
+Mature venous EC
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Pericyte
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Pericyte
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Mature venous EC
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+myofibroblast
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Pericyte
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Mature venous EC
+Adult Glia
+myofibroblast
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Mature venous EC
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Mature arterial EC
+mLTo
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Mature arterial EC
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+T reticular
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+arterial capillary
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+T reticular
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+arterial capillary
+Pericyte
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Pericyte
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Contractile pericyte (PLN+)
+myofibroblast
+Stromal 4 (MMP1+)
+Mature venous EC
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Mature arterial EC
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 4 (MMP1+)
+Adult Glia
+arterial capillary
+Adult Glia
+Mature venous EC
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 4 (MMP1+)
+Activated CD8 T
+Mature venous EC
+Adult Glia
+Pericyte
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Mature venous EC
+Adult Glia
+Mature venous EC
+Stromal 1 (CCL11+)
+Mature venous EC
+Mature venous EC
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+LEC4 (STAB2+)
+Adult Glia
+Pericyte
+arterial capillary
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Adult Glia
+Pericyte
+LEC2 (MADCAM1+)
+Mature venous EC
+Mature arterial EC
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Adult Glia
+arterial capillary
+Pericyte
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Fetal arterial EC
+Glia 1 (DHH+)
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 4 (MMP1+)
+Pericyte
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+arterial capillary
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Pericyte
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Pericyte
+Contractile pericyte (PLN+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 2 (NPY+)
+Pericyte
+Contractile pericyte (PLN+)
+Stromal 4 (MMP1+)
+Mature venous EC
+Mature arterial EC
+Stromal 4 (MMP1+)
+Adult Glia
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+mLTo
+Stromal 4 (MMP1+)
+myofibroblast (RSPO2+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+arterial capillary
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Pericyte
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 2 (NPY+)
+Mature venous EC
+Pericyte
+Adult Glia
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Mature venous EC
+Mature arterial EC
+Mature venous EC
+Pericyte
+Stromal 2 (NPY+)
+Pericyte
+T reticular
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Pericyte
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+mLTo
+Mature venous EC
+Mature venous EC
+Mature venous EC
+arterial capillary
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 4 (MMP1+)
+Contractile pericyte (PLN+)
+Mature arterial EC
+Adult Glia
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Mature venous EC
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Contractile pericyte (PLN+)
+Stromal 4 (MMP1+)
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Mature venous EC
+Adult Glia
+Stromal 2 (NPY+)
+myofibroblast
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+arterial capillary
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+mLTo
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (CCL11+)
+arterial capillary
+Mature venous EC
+myofibroblast (RSPO2+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Mature venous EC
+Pericyte
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Pericyte
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Pericyte
+Stromal 1 (CCL11+)
+Adult Glia
+Mature venous EC
+Stromal 4 (MMP1+)
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+arterial capillary
+Adult Glia
+Stromal 2 (NPY+)
+Pericyte
+Pericyte
+Stromal 1 (ADAMDEC1+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Activated CD4 T
+Stromal 1 (CCL11+)
+Pericyte
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Adult Glia
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 4 (MMP1+)
+Pericyte
+Mature venous EC
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 1 (ADAMDEC1+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Adult Glia
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Pericyte
+Stromal 2 (NPY+)
+Pericyte
+Stromal 4 (MMP1+)
+Adult Glia
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Mature venous EC
+Adult Glia
+Stromal 2 (NPY+)
+Pericyte
+Stromal 2 (NPY+)
+Mature arterial EC
+Mature venous EC
+Adult Glia
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Adult Glia
+Stromal 4 (MMP1+)
+Fetal arterial EC
+Pericyte
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Contractile pericyte (PLN+)
+Pericyte
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Fetal arterial EC
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+arterial capillary
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+mLTo
+Stromal 4 (MMP1+)
+Contractile pericyte (PLN+)
+Mature venous EC
+LEC4 (STAB2+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+LEC4 (STAB2+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+arterial capillary
+Mature arterial EC
+Mature arterial EC
+Adult Glia
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 2 (NPY+)
+Mature venous EC
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Adult Glia
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Activated CD8 T
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+cDC2
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+myofibroblast
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+mLTo
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Mature venous EC
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+myofibroblast
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 3 (C7+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Adult Glia
+myofibroblast
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+arterial capillary
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Mature venous EC
+IgA plasma cell
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Adult Glia
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+T reticular
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+IgA plasma cell
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+IgA plasma cell
+myofibroblast
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+myofibroblast
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+myofibroblast
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Mature venous EC
+arterial capillary
+myofibroblast
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+arterial capillary
+myofibroblast
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Adult Glia
+Transitional Stromal 3 (C3+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+myofibroblast
+Stromal 1 (ADAMDEC1+)
+arterial capillary
+arterial capillary
+Mature arterial EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Adult Glia
+T reticular
+Adult Glia
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (CCL11+)
+T reticular
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (ADAMDEC1+)
+IgA plasma cell
+IgA plasma cell
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Pericyte
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+T reticular
+IgA plasma cell
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+myofibroblast
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+T reticular
+IgA plasma cell
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+myofibroblast
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 3 (C7+)
+Stromal 1 (CCL11+)
+myofibroblast
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (CCL11+)
+Pericyte
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Fetal venous EC
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Adult Glia
+Stromal 1 (CCL11+)
+Adult Glia
+mLN Stroma (FMO2+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Fetal arterial EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+T reticular
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+arterial capillary
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 3 (C7+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgM plasma cell
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+myofibroblast (RSPO2+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+myofibroblast
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+IgA plasma cell
+Stromal 1 (CCL11+)
+IgG plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 3 (C7+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Fetal arterial EC
+Stromal 2 (NPY+)
+Stromal 2 (CH25H+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+IgA plasma cell
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+arterial capillary
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+T reticular
+Adult Glia
+Stromal 4 (MMP1+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+mLTo
+Adult Glia
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+T reticular
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Pericyte
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Adult Glia
+IgA plasma cell
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+T reticular
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+IgA plasma cell
+Stromal 2 (NPY+)
+Pericyte
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Glia 1 (DHH+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+myofibroblast
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+mLTo
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+myofibroblast
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Mature arterial EC
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+T reticular
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 3 (C7+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+myofibroblast
+myofibroblast
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+IgA plasma cell
+Stromal 1 (ADAMDEC1+)
+Mature venous EC
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+IgA plasma cell
+IgA plasma cell
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Fetal venous EC
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+IgA plasma cell
+arterial capillary
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+T reticular
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+arterial capillary
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Activated CD8 T
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Glia 1 (DHH+)
+Stromal 2 (NPY+)
+mLTo
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+myofibroblast
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Transitional Stromal 3 (C3+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Pericyte
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Adult Glia
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (CCL11+)
+IgA plasma cell
+Adult Glia
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Adult Glia
+IgA plasma cell
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+IgA plasma cell
+Stromal 1 (CCL11+)
+Adult Glia
+IgA plasma cell
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 3 (C7+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+T reticular
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+myofibroblast
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+IgA plasma cell
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+mLTo
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+arterial capillary
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (ADAMDEC1+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 3 (C7+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+myofibroblast
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+IgA plasma cell
+Mature arterial EC
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+arterial capillary
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+myofibroblast
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+myofibroblast
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+myofibroblast
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Adult Glia
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+IgA plasma cell
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+arterial capillary
+T reticular
+Stromal 1 (ADAMDEC1+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+mLTo
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+arterial capillary
+Stromal 1 (CCL11+)
+Glia 1 (DHH+)
+Adult Glia
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Adult Glia
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Transitional Stromal 3 (C3+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+myofibroblast
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+myofibroblast
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+myofibroblast
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Adult Glia
+myofibroblast
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+myofibroblast
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Activated CD8 T
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature arterial EC
+IgA plasma cell
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+myofibroblast
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+myofibroblast
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+IgA plasma cell
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+SMC (PLPP2+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+T reticular
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Pericyte
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Mature venous EC
+IgA plasma cell
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+T reticular
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+T reticular
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Mature arterial EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+IgA plasma cell
+arterial capillary
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Adult Glia
+Stromal 1 (CCL11+)
+myofibroblast
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Fetal arterial EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Adult Glia
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+myofibroblast
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature arterial EC
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+myofibroblast
+IgA plasma cell
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+T reticular
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+T reticular
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+mLTo
+Stromal 2 (NPY+)
+T reticular
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Adult Glia
+arterial capillary
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+T reticular
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (CH25H+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Mature venous EC
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+myofibroblast (RSPO2+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Immature pericyte
+Adult Glia
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+IgA plasma cell
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+myofibroblast
+Stromal 1 (CCL11+)
+Mature venous EC
+Adult Glia
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+IgA plasma cell
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+myofibroblast
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Pericyte
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+mLTo
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+myofibroblast
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Activated CD8 T
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Pericyte
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+myofibroblast
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Mature arterial EC
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+IgA plasma cell
+Stromal 1 (CCL11+)
+T reticular
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Adult Glia
+arterial capillary
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Mature venous EC
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+arterial capillary
+Immature pericyte
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+myofibroblast
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Glia 1 (DHH+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 3 (C7+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+myofibroblast (RSPO2+)
+IgA plasma cell
+Stromal 2 (NPY+)
+IgA plasma cell
+IgA plasma cell
+IgA plasma cell
+IgA plasma cell
+Transitional Stromal 3 (C3+)
+Transitional Stromal 3 (C3+)
+Contractile pericyte (PLN+)
+IgA plasma cell
+Mature arterial EC
+IgA plasma cell
+Contractile pericyte (PLN+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+T reticular
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Adult Glia
+IgA plasma cell
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Mature venous EC
+Stromal 2 (NPY+)
+Mature venous EC
+Adult Glia
+Stromal 2 (NPY+)
+myofibroblast
+Stromal 2 (NPY+)
+myofibroblast
+Adult Glia
+IgA plasma cell
+Stromal 1 (CCL11+)
+Adult Glia
+mLTo
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Mature arterial EC
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+arterial capillary
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+mLTo
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Stromal 1 (ADAMDEC1+)
+Adult Glia
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+IgA plasma cell
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+T reticular
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+myofibroblast (RSPO2+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (ADAMDEC1+)
+Mature arterial EC
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+IgA plasma cell
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Mature venous EC
+IgA plasma cell
+myofibroblast
+IgA plasma cell
+IgA plasma cell
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Adult Glia
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+IgA plasma cell
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (ADAMDEC1+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Adult Glia
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Adult Glia
+Adult Glia
+T reticular
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Pericyte
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Mature venous EC
+Stromal 1 (CCL11+)
+Adult Glia
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Mature arterial EC
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Adult Glia
+Stromal 1 (CCL11+)
+Transitional Stromal 3 (C3+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 2 (NPY+)
+Adult Glia
+arterial capillary
+Transitional Stromal 3 (C3+)
+Stromal 2 (NPY+)
+Adult Glia
+Adult Glia
+Stromal 2 (NPY+)
+Adult Glia
+Contractile pericyte (PLN+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (ADAMDEC1+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 2 (NPY+)
+Mature arterial EC
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+IgA plasma cell
+Adult Glia
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Transitional Stromal 3 (C3+)
+Adult Glia
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Pericyte
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+myofibroblast (RSPO2+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 2 (NPY+)
+arterial capillary
+IgA plasma cell
+Adult Glia
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+T reticular
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Mature arterial EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Mature arterial EC
+T reticular
+Stromal 1 (CCL11+)
+IgA plasma cell
+IgA plasma cell
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Glia 1 (DHH+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Adult Glia
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Transitional Stromal 3 (C3+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+arterial capillary
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 3 (C7+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (CCL11+)
+Activated CD4 T
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+myofibroblast
+Stromal 4 (MMP1+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Transitional Stromal 3 (C3+)
+IgA plasma cell
+Contractile pericyte (PLN+)
+IgM plasma cell
+Transitional Stromal 3 (C3+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+IgA plasma cell
+T reticular
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+mLTo
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Fetal arterial EC
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 2 (NPY+)
+Adult Glia
+Adult Glia
+Mature venous EC
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Mature venous EC
+IgA plasma cell
+Stromal 1 (CCL11+)
+IgA plasma cell
+Transitional Stromal 3 (C3+)
+Adult Glia
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 2 (NPY+)
+Mature venous EC
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Mature venous EC
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+myofibroblast
+IgA plasma cell
+Stromal 1 (CCL11+)
+IgA plasma cell
+IgA plasma cell
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+T reticular
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+IgA plasma cell
+IgA plasma cell
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Contractile pericyte (PLN+)
+Adult Glia
+Adult Glia
+Adult Glia
+IgA plasma cell
+T reticular
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Adult Glia
+Mature arterial EC
+Stromal 2 (NPY+)
+IgA plasma cell
+Mature venous EC
+IgA plasma cell
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 2 (NPY+)
+IgA plasma cell
+Adult Glia
+Stromal 1 (CCL11+)
+Adult Glia
+arterial capillary
+Stromal 1 (CCL11+)
+mLTo
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Transitional Stromal 3 (C3+)
+Stromal 2 (NPY+)
+IgA plasma cell
+mLTo
+Adult Glia
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Adult Glia
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 2 (NPY+)
+Pericyte
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 1 (CCL11+)
+T reticular
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature arterial EC
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Mature venous EC
+myofibroblast
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Transitional Stromal 3 (C3+)
+arterial capillary
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+IgA plasma cell
+Stromal 2 (NPY+)
+IgA plasma cell
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+IgA plasma cell
+Adult Glia
+Adult Glia
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+myofibroblast
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Transitional Stromal 3 (C3+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Mature venous EC
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 3 (C7+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Glia 1 (DHH+)
+arterial capillary
+IgA plasma cell
+Stromal 2 (NPY+)
+Mature venous EC
+IgA plasma cell
+arterial capillary
+Stromal 2 (NPY+)
+myofibroblast
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+mLTo
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+IgA plasma cell
+myofibroblast
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+arterial capillary
+Contractile pericyte (PLN+)
+IgA plasma cell
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+arterial capillary
+Contractile pericyte (PLN+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Adult Glia
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+arterial capillary
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Mature venous EC
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 2 (NPY+)
+IgA plasma cell
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+IgA plasma cell
+Stromal 2 (NPY+)
+Pericyte
+Pericyte
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Mature venous EC
+IgA plasma cell
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 1 (ADAMDEC1+)
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+arterial capillary
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Contractile pericyte (PLN+)
+Fetal venous EC
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 2 (NPY+)
+IgA plasma cell
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+IgA plasma cell
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Adult Glia
+T reticular
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Adult Glia
+Contractile pericyte (PLN+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+IgA plasma cell
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Mature arterial EC
+Stromal 2 (NPY+)
+arterial capillary
+Transitional Stromal 3 (C3+)
+Stromal 2 (NPY+)
+IgA plasma cell
+mLTo
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+arterial capillary
+IgA plasma cell
+IgA plasma cell
+Mature venous EC
+Adult Glia
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Adult Glia
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (ADAMDEC1+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Transitional Stromal 3 (C3+)
+arterial capillary
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+IgA plasma cell
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+IgA plasma cell
+IgA plasma cell
+Adult Glia
+Pericyte
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Contractile pericyte (PLN+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+IgA plasma cell
+mLTo
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+mLTo
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+arterial capillary
+Pericyte
+Mature venous EC
+Stromal 2 (NPY+)
+Transitional Stromal 3 (C3+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+IgA plasma cell
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Memory B
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+IgA plasma cell
+Adult Glia
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 1 (CCL11+)
+myofibroblast
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+IgA plasma cell
+myofibroblast
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+IgA plasma cell
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Pericyte
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+IgA plasma cell
+Stromal 2 (NPY+)
+Transitional Stromal 3 (C3+)
+Transitional Stromal 3 (C3+)
+IgA plasma cell
+Stromal 2 (NPY+)
+T reticular
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+IgA plasma cell
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+T reticular
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+IgA plasma cell
+Pericyte
+IgA plasma cell
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Transitional Stromal 3 (C3+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+mLN Stroma (FMO2+)
+Pericyte
+T reticular
+Adult Glia
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 3 (C7+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+arterial capillary
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 3 (C7+)
+Stromal 1 (CCL11+)
+Adult Glia
+Adult Glia
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Transitional Stromal 3 (C3+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Mature venous EC
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Mature venous EC
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+IgA plasma cell
+Mature arterial EC
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+myofibroblast
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+myofibroblast
+Mature arterial EC
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Adult Glia
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Fetal venous EC
+Stromal 1 (CCL11+)
+SMC (PLPP2+)
+T reticular
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+arterial capillary
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Transitional Stromal 3 (C3+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Adult Glia
+arterial capillary
+Stromal 2 (NPY+)
+T reticular
+Adult Glia
+IgA plasma cell
+Stromal 2 (NPY+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+Stromal 1 (CCL11+)
+arterial capillary
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Mature venous EC
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 4 (MMP1+)
+IgA plasma cell
+Adult Glia
+Contractile pericyte (PLN+)
+mLN Stroma (FMO2+)
+Contractile pericyte (PLN+)
+Adult Glia
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+arterial capillary
+IgA plasma cell
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Transitional Stromal 3 (C3+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 1 (ADAMDEC1+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+myofibroblast
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Stromal 2 (NPY+)
+IgA plasma cell
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Mature venous EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+IgA plasma cell
+mLTo
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Mature arterial EC
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Transitional Stromal 3 (C3+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Adult Glia
+arterial capillary
+myofibroblast
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Adult Glia
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+myofibroblast (RSPO2+)
+Stromal 1 (CCL11+)
+Adult Glia
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Glia 3 (BCAN+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+arterial capillary
+myofibroblast
+Adult Glia
+Mature arterial EC
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Mature venous EC
+Stromal 2 (NPY+)
+Adult Glia
+Adult Glia
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+T reticular
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Pericyte
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Transitional Stromal 3 (C3+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+IgA plasma cell
+Activated CD4 T
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+myofibroblast
+Pericyte
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+arterial capillary
+Colonocyte
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Adult Glia
+Mature venous EC
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+LEC1 (ACKR4+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Pericyte
+IgA plasma cell
+Adult Glia
+Stromal 1 (CCL11+)
+myofibroblast
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Glia 1 (DHH+)
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Mature venous EC
+Adult Glia
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Transitional Stromal 3 (C3+)
+IgA plasma cell
+myofibroblast
+Stromal 1 (CCL11+)
+Adult Glia
+SMC (PLPP2+)
+Stromal 1 (CCL11+)
+Mature venous EC
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+myofibroblast
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 4 (MMP1+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Mature venous EC
+IgA plasma cell
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (ADAMDEC1+)
+Stromal 2 (NPY+)
+Mature venous EC
+arterial capillary
+Stromal 1 (CCL11+)
+Adult Glia
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+arterial capillary
+IgA plasma cell
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Transitional Stromal 3 (C3+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+arterial capillary
+Stromal 1 (CCL11+)
+Adult Glia
+Adult Glia
+Stromal 1 (CCL11+)
+Adult Glia
+Adult Glia
+Adult Glia
+Stromal 2 (NPY+)
+IgA plasma cell
+Stromal 1 (ADAMDEC1+)
+T reticular
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+IgA plasma cell
+Mature venous EC
+Stromal 1 (CCL11+)
+Adult Glia
+Mature venous EC
+IgA plasma cell
+Stromal 1 (ADAMDEC1+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Stromal 2 (NPY+)
+arterial capillary
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 1 (CCL11+)
+Stromal 2 (NPY+)
+Adult Glia
+Contractile pericyte (PLN+)
+Glia 3 (BCAN+)
+Stromal 2 (NPY+)
+Stromal 1 (CCL11+)
+Contractile pericyte (PLN+)
+Mature venous EC
+Pericyte
+IgA plasma cell
+Stromal 1 (CCL11+)
+IgA plasma cell
