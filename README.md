@@ -1,10 +1,10 @@
 # Using LLM Models and Explainable ML to Analyse Biomarkers at Single Cell Level
 
-A combined TAR file can be downloaded at:
+In addition to the code and files in the repository, the following link should be used:
 
---- LINK ---
+https://drive.google.com/drive/folders/1jyl0esSY8VYMQ1Ke7P-E-VMidR022awM?usp=drive_link
 
-This TAR file contains:
+The link will download the following:
 
 - The scBERT model fully trained on the Gut Cell Atlas
 - The four UC preprocessed datasets used for constructing the QLattice models, which can be annotated using the .txt files in the scBERT_Folder/Predictions folder
