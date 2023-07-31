@@ -4,8 +4,8 @@ In addition to the code and files in the repository, the following link should b
 
 https://drive.google.com/drive/folders/1jyl0esSY8VYMQ1Ke7P-E-VMidR022awM?usp=drive_link
 
-The link will download the following:
+The link allows one to download the following files:
 
-- The scBERT model fully trained on the Gut Cell Atlas
+- The fully trained scBERT model trained on the Gut Cell Atlas
 - The four UC preprocessed datasets used for constructing the QLattice models, which can be annotated using the .txt files in the scBERT_Folder/Predictions folder
 - The Zheng68k dataset used for scBERT and the preprocessed scRNA-seq dataset corresponding to the Gut Cell Atlas
