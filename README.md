@@ -1,4 +1,4 @@
-# Using LLM Models and Explainable ML to Analyse Biomarkers at Single Cell Level
+# This repository contains the code and files used in the manuscript "Using LLM Models and Explainable ML to Analyse Biomarkers at Single Cell Level"
 
 In addition to the code and files in the repository, the following link should be used:
 
