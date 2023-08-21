@@ -99,7 +99,7 @@ for i, cells_list in enumerate(all_cells):
             for cell_type in cells_list:
 
                 target = "UC_state"
-                save_string = "/home/jupyter-marco.salvatore/jupyter_lab_files/single_cell_new/models/UC{}/UC{}_{}".format(current_dataset, current_dataset, cell_type)
+                save_string = "single_cell_new/models/UC{}/UC{}_{}".format(current_dataset, current_dataset, cell_type)
                 os.mkdir(save_string)
                 stypes = {}
 
